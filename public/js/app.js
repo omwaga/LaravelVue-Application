@@ -28,6 +28,437 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   mounted: function mounted() {
     console.log('Component mounted.');
@@ -46,6 +477,735 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
 /* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -305,16 +1465,1140 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "container" }, [
-      _c("div", { staticClass: "row justify-content-center" }, [
-        _c("div", { staticClass: "col-md-8" }, [
-          _c("div", { staticClass: "card" }, [
-            _c("div", { staticClass: "card-header" }, [_vm._v("About")]),
+    return _c("div", { staticClass: "theme-layout" }, [
+      _c("header", { staticClass: "simple-header for-sticky " }, [
+        _c("div", { staticClass: "top-bar" }, [
+          _c("div", { staticClass: "container" }, [
+            _c("ul", { staticClass: "contact-item" }, [
+              _c("li", [
+                _c("i", { staticClass: "fa fa-envelope-o" }),
+                _vm._v("yourcompnay@email.com")
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("i", { staticClass: "fa fa-mobile" }),
+                _vm._v("+1 333 44 555 / +1 333 44 500")
+              ])
+            ]),
             _vm._v(" "),
-            _c("div", { staticClass: "card-body" }, [
-              _vm._v("\n                    I'm About Page.\n                ")
+            _c("div", { staticClass: "choose-language" }, [
+              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("FR")]),
+              _vm._v(" "),
+              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("DE")]),
+              _vm._v(" "),
+              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("EN")]),
+              _vm._v(" "),
+              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("jp")])
             ])
           ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "menu" }, [
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "logo" }, [
+              _c("a", { attrs: { href: "index.html", title: "" } }, [
+                _c("i", { staticClass: "fa fa-get-pocket" }),
+                _vm._v(" "),
+                _c("span", [_vm._v("KwitaraCars")]),
+                _vm._v(" "),
+                _c("strong", [_vm._v("SELL VEHICULS")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "popup-client" }, [
+              _c("span", [
+                _c("i", { staticClass: "fa fa-user" }),
+                _vm._v(" /  Signup")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "menu-toggle" }, [
+              _c("i", { staticClass: "fa fa-bars" })
+            ]),
+            _vm._v(" "),
+            _c("nav", [
+              _c("h1", { staticClass: "nocontent outline" }, [
+                _vm._v("--- Main Navigation ---")
+              ]),
+              _vm._v(" "),
+              _c("ul", [
+                _c("li", { staticClass: "menu-item-has-children" }, [
+                  _c("a", { attrs: { href: "#", title: "" } }, [
+                    _vm._v("HOME")
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [
+                      _c("a", { attrs: { href: "index.html", title: "" } }, [
+                        _vm._v("Home v1")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "index2.html", title: "" } }, [
+                        _vm._v("Home v2")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "index3.html", title: "" } }, [
+                        _vm._v("Home v3")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", { staticClass: "menu-item-has-children" }, [
+                  _c("a", { attrs: { href: "#", title: "" } }, [
+                    _vm._v("VEHICULS")
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [
+                      _c(
+                        "a",
+                        { attrs: { href: "vehiculs3.html", title: "" } },
+                        [_vm._v("vehiculs- Super ")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "vehiculs.html", title: "" } }, [
+                        _vm._v("vehiculs- List")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c(
+                        "a",
+                        { attrs: { href: "vehiculs2.html", title: "" } },
+                        [_vm._v("vehiculs- Grid")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
+                        _vm._v("vehicul details")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
+                    _vm._v("VEHICUL")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", { staticClass: "menu-item-has-children mega" }, [
+                  _c("a", { attrs: { href: "#", title: "" } }, [
+                    _vm._v("PAGES")
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [
+                      _c(
+                        "a",
+                        { attrs: { href: "comingsoon.html", title: "" } },
+                        [_vm._v("Coming Soon")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c(
+                        "a",
+                        { attrs: { href: "agents-listing.html", title: "" } },
+                        [_vm._v("Agent Listing ")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c(
+                        "a",
+                        { attrs: { href: "terms-conditions.html", title: "" } },
+                        [_vm._v("Terms & conditions")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "agent.html", title: "" } }, [
+                        _vm._v("Agent page")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "agent2.html", title: "" } }, [
+                        _vm._v("Agent 2 page")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "agent3.html", title: "" } }, [
+                        _vm._v("Agent 3 page")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c(
+                        "a",
+                        { attrs: { href: "my-profile.html", title: "" } },
+                        [_vm._v("Profile page")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "submit.html", title: "" } }, [
+                        _vm._v("Submit page")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "login.html", title: "" } }, [
+                        _vm._v("Login page")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "contact.html", title: "" } }, [
+                        _vm._v("Contact Us")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "404.html", title: "" } }, [
+                        _vm._v("404 Error ")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "faq.html", title: "" } }, [
+                        _vm._v("FAQ page")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "faq.html", title: "" } }, [
+                        _vm._v("VEHICUL LEFT SIDE")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", { staticClass: "menu-item-has-children" }, [
+                  _c("a", { attrs: { href: "#", title: "" } }, [
+                    _vm._v("BLOG PAGES")
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [
+                      _c("a", { attrs: { href: "blog.html", title: "" } }, [
+                        _vm._v("Blog Page")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c(
+                        "a",
+                        { attrs: { href: "blog-sidebar.html", title: "" } },
+                        [_vm._v("Blog left Sidebar")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "single.html", title: "" } }, [
+                        _vm._v("Single Post")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c(
+                        "a",
+                        {
+                          attrs: { href: "single-left-sidebar.html", title: "" }
+                        },
+                        [_vm._v("Single Left sidebar")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c(
+                        "a",
+                        {
+                          attrs: { href: "single-no-sidebar.html", title: "" }
+                        },
+                        [_vm._v("Single No Sidebar")]
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("a", { attrs: { href: "contact.html", title: "" } }, [
+                    _vm._v("CONTACT")
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "inner-head overlap" }, [
+        _c("div", {
+          staticClass: "parallax scrolly-invisible no-parallax",
+          staticStyle: {
+            background:
+              "url(img/parallax1.jpg) repeat scroll 50% 422.28px transparent"
+          }
+        }),
+        _vm._v(" "),
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "inner-content" }, [
+            _c("span", [_c("i", { staticClass: "fa fa-bolt" })]),
+            _vm._v(" "),
+            _c("h2", [_vm._v("VEHICULS - LIST STYLE 3 ")]),
+            _vm._v(" "),
+            _c("ul", [
+              _c("li", [
+                _c("a", { attrs: { href: "index.html", title: "" } }, [
+                  _vm._v("HOME")
+                ])
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { href: "vehiculs3.html", title: "" } }, [
+                  _vm._v("VEHICULS- LIST STYLE 3 ")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "horizontal-search pm-extra " }, [
+        _c("div", { staticClass: "container" }, [
+          _c("h1", { staticClass: "nocontent outline" }, [
+            _vm._v("--- Search form ---")
+          ]),
+          _vm._v(" "),
+          _c("div", {}, [
+            _c("div", { staticClass: "search-form" }, [
+              _c(
+                "form",
+                {
+                  staticClass: "form-inline",
+                  attrs: { action: "vehiculs.html", method: "get" }
+                },
+                [
+                  _c("div", { staticClass: "search-form-content" }, [
+                    _c("div", { staticClass: "search-form-field" }, [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "form-group col-xs-12 col-sm-3 col-md-3"
+                        },
+                        [
+                          _c("div", { staticClass: "label-select" }, [
+                            _c(
+                              "select",
+                              {
+                                staticClass: "form-control",
+                                attrs: { name: "s_location" }
+                              },
+                              [
+                                _c("option", [_vm._v("Any Manufacturer")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Audi")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Mercedes-Benz")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("BMW")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Lexus")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Lincoln")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Ford")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Fiat")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Dodge")])
+                              ]
+                            )
+                          ])
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass: "form-group col-xs-12 col-sm-3 col-md-3"
+                        },
+                        [
+                          _c("div", { staticClass: "label-select" }, [
+                            _c(
+                              "select",
+                              {
+                                staticClass: "form-control",
+                                attrs: { name: "anymodule" }
+                              },
+                              [
+                                _c("option", [_vm._v("Any Model ")]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "1" } }, [
+                                  _vm._v("R8")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "2" } }, [
+                                  _vm._v("S500")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "3" } }, [
+                                  _vm._v("540i")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "4" } }, [
+                                  _vm._v("RX300")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "5" } }, [
+                                  _vm._v("Navigator")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "6" } }, [
+                                  _vm._v("Taurus")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "7" } }, [
+                                  _vm._v("Doblo")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "8" } }, [
+                                  _vm._v("Viper")
+                                ])
+                              ]
+                            )
+                          ])
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass: "form-group col-xs-12 col-sm-3 col-md-3"
+                        },
+                        [
+                          _c("div", { staticClass: "label-select" }, [
+                            _c(
+                              "select",
+                              {
+                                staticClass: "form-control",
+                                attrs: { name: "s_location" }
+                              },
+                              [
+                                _c("option", [_vm._v("Any locations")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Central New York")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("GreenVille")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("Long Island")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("New York City")]),
+                                _vm._v(" "),
+                                _c("option", [_vm._v("West Side")])
+                              ]
+                            )
+                          ])
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass: "form-group col-xs-12 col-sm-3 col-md-3"
+                        },
+                        [
+                          _c("div", { staticClass: "label-select" }, [
+                            _c(
+                              "select",
+                              {
+                                staticClass: "form-control",
+                                attrs: { name: "s_statu" }
+                              },
+                              [
+                                _c("option", [_vm._v("Any Status ")]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "damaged" } }, [
+                                  _vm._v("Damaged")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "new" } }, [
+                                  _vm._v("New")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "semi-new" } }, [
+                                  _vm._v("Semi-New")
+                                ]),
+                                _vm._v(" "),
+                                _c("option", { attrs: { value: "used" } }, [
+                                  _vm._v("Used")
+                                ])
+                              ]
+                            )
+                          ])
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("div", {
+                        staticClass: "form-group col-xs-12 col-sm-3 col-md-3"
+                      }),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass: "form-group col-xs-12 col-sm-3 col-md-3"
+                        },
+                        [
+                          _c("span", { staticClass: "gprice-label" }, [
+                            _vm._v("Price Range")
+                          ]),
+                          _vm._v(" "),
+                          _c("input", {
+                            staticClass: "span2",
+                            attrs: {
+                              type: "text",
+                              value: "",
+                              "data-slider-min": "0",
+                              "data-slider-max": "60000",
+                              "data-slider-step": "5",
+                              "data-slider-value": "[0,60000]",
+                              id: "price-range"
+                            }
+                          })
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass: "form-group col-xs-12 col-sm-3 col-md-3"
+                        },
+                        [
+                          _c("span", { staticClass: "garea-label" }, [
+                            _vm._v("Mileage Range")
+                          ]),
+                          _vm._v(" "),
+                          _c("input", {
+                            staticClass: "span2",
+                            attrs: {
+                              type: "text",
+                              value: "",
+                              "data-slider-min": "0",
+                              "data-slider-max": "60000",
+                              "data-slider-step": "5",
+                              "data-slider-value": "[50,60000]",
+                              id: "vehicul-geo"
+                            }
+                          })
+                        ]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "search-form-submit" }, [
+                    _c(
+                      "button",
+                      { staticClass: "btn-search", attrs: { type: "submit" } },
+                      [_vm._v("Search")]
+                    )
+                  ])
+                ]
+              )
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("section", { staticClass: "block remove-top" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-12" }, [
+              _c("div", { staticClass: "blog-sec" }, [
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col-md-6" }, [
+                    _c("div", { staticClass: "vehicul-post" }, [
+                      _c("div", { staticClass: "vehicul-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul1.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "vehicul-post-detail" }, [
+                          _c("h2", [
+                            _c("a", { attrs: { href: "#", title: "" } }, [
+                              _vm._v("Mercedes-Benz")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("h2", { staticClass: "price" }, [
+                            _vm._v(" 300000 $  ")
+                          ]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _c("i", { staticClass: "fa fa-calendar-o" }),
+                            _vm._v(" 10 December 2016")
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v("A wonderful serenity has taken possession.")
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              staticClass: "vehicul-more",
+                              attrs: { href: "#", title: "" }
+                            },
+                            [_vm._v("Details ")]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "vehicul-agent" }, [
+                        _c("a", { attrs: { href: "agent3.html", title: "" } }, [
+                          _c("img", { attrs: { src: "img/3.png", alt: "" } }),
+                          _vm._v(" "),
+                          _c("h3", [_vm._v("KwitaraCars y")]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _vm._v("Posted by "),
+                            _c("i", [_vm._v("Agent Flwo")])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-6" }, [
+                    _c("div", { staticClass: "vehicul-post" }, [
+                      _c("div", { staticClass: "vehicul-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul3.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "vehicul-post-detail" }, [
+                          _c("h2", [
+                            _c("a", { attrs: { href: "#", title: "" } }, [
+                              _vm._v("Mercedes-Benz")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("h2", { staticClass: "price" }, [
+                            _vm._v(" 300000 $  ")
+                          ]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _c("i", { staticClass: "fa fa-calendar-o" }),
+                            _vm._v(" 10 December 2016")
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v("A wonderful serenity has taken possession.")
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              staticClass: "vehicul-more",
+                              attrs: { href: "#", title: "" }
+                            },
+                            [_vm._v("Details ")]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "vehicul-agent" }, [
+                        _c("a", { attrs: { href: "agent3.html", title: "" } }, [
+                          _c("img", { attrs: { src: "img/3.png", alt: "" } }),
+                          _vm._v(" "),
+                          _c("h3", [_vm._v("KwitaraCars y")]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _vm._v("Posted by "),
+                            _c("i", [_vm._v("Agent Flwo")])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-6" }, [
+                    _c("div", { staticClass: "vehicul-post" }, [
+                      _c("div", { staticClass: "vehicul-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul4.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "vehicul-post-detail" }, [
+                          _c("h2", [
+                            _c("a", { attrs: { href: "#", title: "" } }, [
+                              _vm._v("Mercedes-Benz")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("h2", { staticClass: "price" }, [
+                            _vm._v(" 300000 $  ")
+                          ]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _c("i", { staticClass: "fa fa-calendar-o" }),
+                            _vm._v(" 10 December 2016")
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v("A wonderful serenity has taken possession.")
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              staticClass: "vehicul-more",
+                              attrs: { href: "#", title: "" }
+                            },
+                            [_vm._v("Details ")]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "vehicul-agent" }, [
+                        _c("a", { attrs: { href: "agent3.html", title: "" } }, [
+                          _c("img", { attrs: { src: "img/4.png", alt: "" } }),
+                          _vm._v(" "),
+                          _c("h3", [_vm._v("KwitaraCars y")]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _vm._v("Posted by "),
+                            _c("i", [_vm._v("Agent Flwo")])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-6" }, [
+                    _c("div", { staticClass: "vehicul-post" }, [
+                      _c("div", { staticClass: "vehicul-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul5.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "vehicul-post-detail" }, [
+                          _c("h2", [
+                            _c("a", { attrs: { href: "#", title: "" } }, [
+                              _vm._v("Mercedes-Benz")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("h2", { staticClass: "price" }, [
+                            _vm._v(" 300000 $  ")
+                          ]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _c("i", { staticClass: "fa fa-calendar-o" }),
+                            _vm._v(" 10 December 2016")
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v("A wonderful serenity has taken possession.")
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              staticClass: "vehicul-more",
+                              attrs: { href: "#", title: "" }
+                            },
+                            [_vm._v("Details ")]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "vehicul-agent" }, [
+                        _c("a", { attrs: { href: "agent3.html", title: "" } }, [
+                          _c("img", { attrs: { src: "img/1.png", alt: "" } }),
+                          _vm._v(" "),
+                          _c("h3", [_vm._v("KwitaraCars y")]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _vm._v("Posted by "),
+                            _c("i", [_vm._v("Agent Flwo")])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-6" }, [
+                    _c("div", { staticClass: "vehicul-post" }, [
+                      _c("div", { staticClass: "vehicul-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul2.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "vehicul-post-detail" }, [
+                          _c("h2", [
+                            _c("a", { attrs: { href: "#", title: "" } }, [
+                              _vm._v("Mercedes-Benz")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("h2", { staticClass: "price" }, [
+                            _vm._v(" 300000 $  ")
+                          ]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _c("i", { staticClass: "fa fa-calendar-o" }),
+                            _vm._v(" 10 December 2016")
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v("A wonderful serenity has taken possession.")
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              staticClass: "vehicul-more",
+                              attrs: { href: "#", title: "" }
+                            },
+                            [_vm._v("Details ")]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "vehicul-agent" }, [
+                        _c("a", { attrs: { href: "agent3.html", title: "" } }, [
+                          _c("img", { attrs: { src: "img/2.png", alt: "" } }),
+                          _vm._v(" "),
+                          _c("h3", [_vm._v("KwitaraCars y")]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _vm._v("Posted by "),
+                            _c("i", [_vm._v("Agent Flwo")])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-6" }, [
+                    _c("div", { staticClass: "vehicul-post" }, [
+                      _c("div", { staticClass: "vehicul-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul3.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "vehicul-post-detail" }, [
+                          _c("h2", [
+                            _c("a", { attrs: { href: "#", title: "" } }, [
+                              _vm._v("Mercedes-Benz")
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("h2", { staticClass: "price" }, [
+                            _vm._v(" 300000 $  ")
+                          ]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _c("i", { staticClass: "fa fa-calendar-o" }),
+                            _vm._v(" 10 December 2016")
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v("A wonderful serenity has taken possession.")
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              staticClass: "vehicul-more",
+                              attrs: { href: "#", title: "" }
+                            },
+                            [_vm._v("Details ")]
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "vehicul-agent" }, [
+                        _c("a", { attrs: { href: "agent3.html", title: "" } }, [
+                          _c("img", { attrs: { src: "img/4.png", alt: "" } }),
+                          _vm._v(" "),
+                          _c("h3", [_vm._v("KwitaraCars y")]),
+                          _vm._v(" "),
+                          _c("span", [
+                            _vm._v("Posted by "),
+                            _c("i", [_vm._v("Agent Flwo")])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "pagination" }, [
+                  _c("li", { staticClass: "disabled" }, [
+                    _c("a", { attrs: { href: "#", title: "" } }, [
+                      _c("span", [_vm._v("NEXT")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("1")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", { staticClass: "active" }, [
+                    _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("2")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("3")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#", title: "" } }, [
+                      _c("span", [_vm._v("PREV")])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("footer", [
+        _c("section", { staticClass: "top-line" }, [
+          _c("div", {
+            staticClass: "parallax scrolly-invisible blackish",
+            staticStyle: {
+              background:
+                "url(img/footer.jpg) repeat scroll 50% 422.28px transparent"
+            }
+          }),
+          _vm._v(" "),
+          _c("div", { staticClass: "container" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-md-3 column" }, [
+                _c("div", { staticClass: "about_widget widget" }, [
+                  _c("div", { staticClass: "heading1" }, [
+                    _c("h2", [_c("span", [_vm._v("Useful")]), _vm._v(" links")])
+                  ]),
+                  _vm._v(" "),
+                  _c("span", [
+                    _c("i", { staticClass: "fa fa-envelope" }),
+                    _vm._v("yourcompany@gmail.com")
+                  ]),
+                  _vm._v(" "),
+                  _c("span", [
+                    _c("i", { staticClass: "fa fa-phone" }),
+                    _vm._v("0888 (29999996)")
+                  ]),
+                  _vm._v(" "),
+                  _c("span", [
+                    _c("i", { staticClass: "fa fa-location-arrow" }),
+                    _vm._v("1234 Tokyo shibuia , WI 54115")
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "social-btns" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-facebook" })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-google-plus" })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-linkedin" })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-dribbble" })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-twitter" })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-tumblr" })
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 column" }, [
+                _c("div", { staticClass: "links_widget widget" }, [
+                  _c("div", { staticClass: "heading1" }, [
+                    _c("h2", [_c("span", [_vm._v("Useful")]), _vm._v(" links")])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" Home")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" About us")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" Services")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" Services")
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 column" }, [
+                _c("div", { staticClass: "links_widget widget" }, [
+                  _c("div", { staticClass: "heading1" }, [
+                    _c("h2", [_c("span", [_vm._v("Useful")]), _vm._v(" links")])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", [
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" Lorem ipsum ")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" Closest ipsum ")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" Lorem dolom ")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("i", { staticClass: "fa fa-angle-right" }),
+                        _vm._v(" Positioned ipl")
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-md-3 column" }, [
+                _c("div", { staticClass: "subscribe_widget widget" }, [
+                  _c("div", { staticClass: "heading1" }, [
+                    _c("h2", [_c("span", [_vm._v("Subscribe")]), _vm._v(" Us")])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Positioning the closest positioned for abs positioning"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("form", [
+                    _c("label", [
+                      _c("input", {
+                        attrs: { type: "text", placeholder: "TYPE YOUR EMAIL" }
+                      })
+                    ]),
+                    _vm._v(" "),
+                    _c(
+                      "button",
+                      { staticClass: "flat-btn", attrs: { type: "submit" } },
+                      [_c("i", { staticClass: "ti ti-email" })]
+                    )
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "bottom-line" }, [
+          _c("div", { staticClass: "container" }, [
+            _c("span", [
+              _vm._v("Copyright All Right Reserved 2016 "),
+              _c("a", { attrs: { href: "#", title: "" } }, [
+                _vm._v("KimaroTec")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("ul", [
+              _c("li", [
+                _c("a", { attrs: { title: "", href: "#" } }, [_vm._v("HOME")])
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { title: "", href: "#" } }, [_vm._v("ABOUT")])
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { title: "", href: "#" } }, [
+                  _vm._v("VEHICULS")
+                ])
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { title: "", href: "#" } }, [_vm._v("BLOG")])
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { title: "", href: "#" } }, [
+                  _vm._v("CONTACT")
+                ])
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("a", { staticClass: "scrollToTop", attrs: { href: "#" } }, [
+          _c("i", { staticClass: "ti ti-arrow-circle-up" })
         ])
       ])
     ])
@@ -348,45 +2632,2268 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "row" }, [
-      _c("div", { staticClass: "col-md-4" }, [
-        _c("img", {
-          staticClass: "rounded mx-auto d-block",
-          attrs: {
-            src:
-              "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22200%22%20height%3D%22200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17763d31df5%20text%20%7B%20fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A10pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17763d31df5%22%3E%3Crect%20width%3D%22200%22%20height%3D%22200%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%2273.6328125%22%20y%3D%22104.5%22%3E200x200%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
-            alt: "..."
-          }
-        })
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "col-md-8" }, [
-        _c("h3", [_vm._v("Album")]),
-        _vm._v(" "),
-        _c("h2", [_vm._v("Album Name")]),
-        _vm._v(" "),
-        _c("p", [_vm._v("By Band Name")])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "col-md-12 mt-5" }, [
-        _c("table", { staticClass: "table" }, [
-          _c("thead", [
-            _c("tr", [
-              _c("th", { attrs: { scope: "col" } }, [_vm._v("#")]),
-              _vm._v(" "),
-              _c("th", { attrs: { scope: "col" } }, [_vm._v("Title")]),
-              _vm._v(" "),
-              _c("th", { attrs: { scope: "col" } }, [_vm._v("Length")])
-            ])
+    return _c("div", [
+      _c("section", { staticClass: "box-slider-search" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("h1", { staticClass: "nocontent outline" }, [
+            _vm._v("--- Search form  ---")
           ]),
           _vm._v(" "),
-          _c("tbody", [
-            _c("tr", [
-              _c("td", [_vm._v("1")]),
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-8" }, [
+              _c(
+                "div",
+                {
+                  staticClass: "rev_slider_wrapper fullwidthbanner-container",
+                  attrs: {
+                    id: "rev_slider-wrapper",
+                    "data-alias": "classicslider1"
+                  }
+                },
+                [
+                  _c("div", { staticClass: "tp-banner-container" }, [
+                    _c("div", { staticClass: "tp-banner" }, [
+                      _c("ul", [
+                        _c(
+                          "li",
+                          {
+                            attrs: {
+                              "data-transition": "fade",
+                              "data-slotamount": "7",
+                              "data-masterspeed": "2000",
+                              "data-saveperformance": "on",
+                              "data-title": "Ken Burns Slide"
+                            }
+                          },
+                          [
+                            _c("img", {
+                              attrs: {
+                                src: "img/slides/home2.jpg",
+                                alt: "2",
+                                "data-lazyload": "img/slides/home2.jpg",
+                                "data-bgposition": "right top",
+                                "data-kenburns": "off",
+                                "data-duration": "12000",
+                                "data-ease": "Power0.easeInOut",
+                                "data-bgfit": "115",
+                                "data-bgfitend": "100",
+                                "data-bgpositionend": "center bottom"
+                              }
+                            }),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "130",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [
+                                _c("img", {
+                                  staticStyle: {
+                                    width: "110px",
+                                    height: "110px"
+                                  },
+                                  attrs: { alt: "", src: "img/4.png" }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  "font-size": "40px",
+                                  "letter-spacing": "6px",
+                                  "font-weight": "400"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "272",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [
+                                _vm._v(
+                                  "\n                  Mercedes-Benz\n                "
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lfb tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "font-size": "13px",
+                                  "text-transform": "uppercase",
+                                  "letter-spacing": "10px"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "800",
+                                  "data-speed": "600",
+                                  "data-y": "320",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [
+                                _c("i", { staticClass: "fa fa-map-marker" }),
+                                _vm._v(" Not caroliana 234 \n              ")
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  "font-size": "40px",
+                                  "letter-spacing": "6px",
+                                  "font-family": "Montserrat",
+                                  "font-weight": "400"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "365",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [_vm._v("\n              345000 $\n            ")]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "a",
+                              {
+                                staticClass:
+                                  "pull-left tp-caption lfb tp-resizeme rs-parallaxlevel-0",
+                                staticStyle: {
+                                  "z-index": "12",
+                                  "max-width": "auto",
+                                  "max-height": "auto",
+                                  "white-space": "nowrap",
+                                  padding: "15px 28px",
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  border: "none",
+                                  background: "#000",
+                                  "font-size": "12px",
+                                  "letter-spacing": "3px",
+                                  "font-family": "Montserrat",
+                                  "border-radius": "0px",
+                                  display: "table",
+                                  transition: ".4s"
+                                },
+                                attrs: {
+                                  href: "vehicul.html",
+                                  "data-x": "center",
+                                  "data-y": "420",
+                                  "data-customin":
+                                    "x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;\n            scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;",
+                                  "data-speed": "500",
+                                  "data-start": "1200",
+                                  "data-easing": "Power3.easeInOut",
+                                  "data-splitin": "none",
+                                  "data-splitout": "none",
+                                  "data-elementdelay": "0.1",
+                                  "data-endelementdelay": "0.1",
+                                  "data-linktoslide": "next"
+                                }
+                              },
+                              [_vm._v("More Details")]
+                            )
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "li",
+                          {
+                            attrs: {
+                              "data-transition": "fade",
+                              "data-slotamount": "7",
+                              "data-masterspeed": "2000",
+                              "data-saveperformance": "on",
+                              "data-title": "Ken Burns Slide"
+                            }
+                          },
+                          [
+                            _c("img", {
+                              attrs: {
+                                src: "img/slides/home1.jpg",
+                                alt: "2",
+                                "data-lazyload": "img/slides/home1.jpg",
+                                "data-bgposition": "right top",
+                                "data-kenburns": "off",
+                                "data-duration": "12000",
+                                "data-ease": "Power0.easeInOut",
+                                "data-bgfit": "115",
+                                "data-bgfitend": "100",
+                                "data-bgpositionend": "center bottom"
+                              }
+                            }),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "130",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [
+                                _c("img", {
+                                  staticStyle: {
+                                    width: "110px",
+                                    height: "110px"
+                                  },
+                                  attrs: { alt: "", src: "img/3.png" }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  "font-size": "40px",
+                                  "letter-spacing": "6px",
+                                  "font-weight": "400"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "272",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [_vm._v("\n        Mercedes-Benz\n      ")]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lfb tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "font-size": "13px",
+                                  "text-transform": "uppercase",
+                                  "letter-spacing": "10px"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "800",
+                                  "data-speed": "600",
+                                  "data-y": "320",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [
+                                _c("i", { staticClass: "fa fa-map-marker" }),
+                                _vm._v(" Not caroliana 234 \n    ")
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  "font-size": "40px",
+                                  "letter-spacing": "6px",
+                                  "font-family": "Montserrat",
+                                  "font-weight": "400"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "365",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [_vm._v("\n    345000 $\n  ")]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "a",
+                              {
+                                staticClass:
+                                  "pull-left tp-caption lfb tp-resizeme rs-parallaxlevel-0",
+                                staticStyle: {
+                                  "z-index": "12",
+                                  "max-width": "auto",
+                                  "max-height": "auto",
+                                  "white-space": "nowrap",
+                                  padding: "15px 28px",
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  border: "none",
+                                  background: "#000",
+                                  "font-size": "12px",
+                                  "letter-spacing": "3px",
+                                  "font-family": "Montserrat",
+                                  "border-radius": "0px",
+                                  display: "table",
+                                  transition: ".4s"
+                                },
+                                attrs: {
+                                  href: "vehicul.html",
+                                  "data-x": "center",
+                                  "data-y": "420",
+                                  "data-customin":
+                                    "x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;\n  scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;",
+                                  "data-speed": "500",
+                                  "data-start": "1200",
+                                  "data-easing": "Power3.easeInOut",
+                                  "data-splitin": "none",
+                                  "data-splitout": "none",
+                                  "data-elementdelay": "0.1",
+                                  "data-endelementdelay": "0.1",
+                                  "data-linktoslide": "next"
+                                }
+                              },
+                              [_vm._v("More Details")]
+                            )
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "li",
+                          {
+                            attrs: {
+                              "data-transition": "fade",
+                              "data-slotamount": "7",
+                              "data-masterspeed": "2000",
+                              "data-saveperformance": "on",
+                              "data-title": "Ken Burns Slide"
+                            }
+                          },
+                          [
+                            _c("img", {
+                              attrs: {
+                                src: "img/slides/home3.jpg",
+                                alt: "2",
+                                "data-lazyload": "img/slides/home3.jpg",
+                                "data-bgposition": "right top",
+                                "data-kenburns": "off",
+                                "data-duration": "12000",
+                                "data-ease": "Power0.easeInOut",
+                                "data-bgfit": "115",
+                                "data-bgfitend": "100",
+                                "data-bgpositionend": "center bottom"
+                              }
+                            }),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "130",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [
+                                _c("img", {
+                                  staticStyle: {
+                                    width: "110px",
+                                    height: "110px"
+                                  },
+                                  attrs: { alt: "", src: "img/3.png" }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  "font-size": "40px",
+                                  "letter-spacing": "6px",
+                                  "font-weight": "400"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "272",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [_vm._v("\nMercedes-Benz\n")]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lfb tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "font-size": "13px",
+                                  "text-transform": "uppercase",
+                                  "letter-spacing": "10px"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "800",
+                                  "data-speed": "600",
+                                  "data-y": "320",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [
+                                _c("i", { staticClass: "fa fa-map-marker" }),
+                                _vm._v(" Not caroliana 234 \n")
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              {
+                                staticClass:
+                                  "tp-caption tentered_white_huge lft tp-resizeme",
+                                staticStyle: {
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  "font-size": "40px",
+                                  "letter-spacing": "6px",
+                                  "font-family": "Montserrat",
+                                  "font-weight": "400"
+                                },
+                                attrs: {
+                                  "data-endspeed": "300",
+                                  "data-easing": "Power4.easeOut",
+                                  "data-start": "400",
+                                  "data-speed": "600",
+                                  "data-y": "365",
+                                  "data-hoffset": "0",
+                                  "data-x": "center"
+                                }
+                              },
+                              [_vm._v("\n345000 $\n")]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "a",
+                              {
+                                staticClass:
+                                  "pull-left tp-caption lfb tp-resizeme rs-parallaxlevel-0",
+                                staticStyle: {
+                                  "z-index": "12",
+                                  "max-width": "auto",
+                                  "max-height": "auto",
+                                  "white-space": "nowrap",
+                                  padding: "15px 28px",
+                                  color: "#fff",
+                                  "text-transform": "uppercase",
+                                  border: "none",
+                                  background: "#000",
+                                  "font-size": "12px",
+                                  "letter-spacing": "3px",
+                                  "font-family": "Montserrat",
+                                  "border-radius": "0px",
+                                  display: "table",
+                                  transition: ".4s"
+                                },
+                                attrs: {
+                                  href: "vehicul.html",
+                                  "data-x": "center",
+                                  "data-y": "420",
+                                  "data-customin":
+                                    "x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;\nscaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;",
+                                  "data-speed": "500",
+                                  "data-start": "1200",
+                                  "data-easing": "Power3.easeInOut",
+                                  "data-splitin": "none",
+                                  "data-splitout": "none",
+                                  "data-elementdelay": "0.1",
+                                  "data-endelementdelay": "0.1",
+                                  "data-linktoslide": "next"
+                                }
+                              },
+                              [_vm._v("More Details")]
+                            )
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "tp-bannertimer" })
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-md-4" }, [
+              _c("div", { staticClass: "horizontal-search v-f-p" }, [
+                _c("div", { staticClass: "search-form" }, [
+                  _c("h1", { staticClass: "fsearch-title" }, [
+                    _c("i", { staticClass: "fa fa-search" }),
+                    _c("span", [_vm._v("SEARCH FOR vehicul")])
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "form",
+                    {
+                      staticClass: "form-inline",
+                      attrs: { action: "vehiculs.html", method: "get" }
+                    },
+                    [
+                      _c("div", { staticClass: "search-form-content" }, [
+                        _c("div", { staticClass: "search-form-field" }, [
+                          _c("div", { staticClass: "form-group col-md-12" }, [
+                            _c("div", { staticClass: "label-select" }, [
+                              _c(
+                                "select",
+                                {
+                                  staticClass: "form-control",
+                                  attrs: { name: "s_location" }
+                                },
+                                [
+                                  _c("option", [_vm._v("Any Manufacturer")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Audi")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Mercedes-Benz")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("BMW")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Lexus")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Lincoln")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Ford")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Fiat")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Dodge")])
+                                ]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "form-group col-md-12" }, [
+                            _c("div", { staticClass: "label-select" }, [
+                              _c(
+                                "select",
+                                {
+                                  staticClass: "form-control",
+                                  attrs: { name: "anymodule" }
+                                },
+                                [
+                                  _c("option", [_vm._v("Any Model ")]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "1" } }, [
+                                    _vm._v("R8")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "2" } }, [
+                                    _vm._v("S500")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "3" } }, [
+                                    _vm._v("540i")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "4" } }, [
+                                    _vm._v("RX300")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "5" } }, [
+                                    _vm._v("Navigator")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "6" } }, [
+                                    _vm._v("Taurus")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "7" } }, [
+                                    _vm._v("Doblo")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "8" } }, [
+                                    _vm._v("Viper")
+                                  ])
+                                ]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "form-group col-md-12" }, [
+                            _c("div", { staticClass: "label-select" }, [
+                              _c(
+                                "select",
+                                {
+                                  staticClass: "form-control",
+                                  attrs: { name: "s_location" }
+                                },
+                                [
+                                  _c("option", [_vm._v("Any locations")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Central New York")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("GreenVille")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("Long Island")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("New York City")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("West Side")])
+                                ]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "form-group col-md-12" }, [
+                            _c("div", { staticClass: "label-select" }, [
+                              _c(
+                                "select",
+                                {
+                                  staticClass: "form-control",
+                                  attrs: { name: "s_statu" }
+                                },
+                                [
+                                  _c("option", [_vm._v("Any Status ")]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "option",
+                                    { attrs: { value: "damaged" } },
+                                    [_vm._v("Damaged")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "new" } }, [
+                                    _vm._v("New")
+                                  ]),
+                                  _vm._v(" "),
+                                  _c(
+                                    "option",
+                                    { attrs: { value: "semi-new" } },
+                                    [_vm._v("Semi-New")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("option", { attrs: { value: "used" } }, [
+                                    _vm._v("Used")
+                                  ])
+                                ]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "form-group col-md-12" }, [
+                            _c("span", { staticClass: "gprice-label" }, [
+                              _vm._v("Price Range")
+                            ]),
+                            _vm._v(" "),
+                            _c("input", {
+                              staticClass: "span2",
+                              attrs: {
+                                type: "text",
+                                value: "",
+                                "data-slider-min": "0",
+                                "data-slider-max": "60000",
+                                "data-slider-step": "5",
+                                "data-slider-value": "[0,60000]",
+                                id: "price-range"
+                              }
+                            })
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "form-group col-md-12" }, [
+                            _c("span", { staticClass: "garea-label" }, [
+                              _vm._v("Mileage Range")
+                            ]),
+                            _vm._v(" "),
+                            _c("input", {
+                              staticClass: "span2",
+                              attrs: {
+                                type: "text",
+                                value: "",
+                                "data-slider-min": "0",
+                                "data-slider-max": "60000",
+                                "data-slider-step": "5",
+                                "data-slider-value": "[50,60000]",
+                                id: "vehicul-geo"
+                              }
+                            })
+                          ])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "search-form-submit" }, [
+                        _c(
+                          "button",
+                          {
+                            staticClass: "btn-search",
+                            attrs: { type: "submit" }
+                          },
+                          [_vm._v("Search")]
+                        )
+                      ])
+                    ]
+                  )
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "block remove-top" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-12" }, [
+              _c("div", { staticClass: "heading4" }, [
+                _c("h2", [_vm._v("RECENT VEHICULS ")]),
+                _vm._v(" "),
+                _c("span", [_vm._v("Lorem ipsum dolor")])
+              ]),
               _vm._v(" "),
-              _c("td", [_vm._v("Mark")]),
+              _c("div", { staticClass: "vehiculs-sec" }, [
+                _c("div", { staticClass: "carousel-prop" }, [
+                  _c("div", { staticClass: "vehiculs-box" }, [
+                    _c("div", { staticClass: "vehiculs-thumb" }, [
+                      _c("img", {
+                        attrs: { src: "img/demo/vehicul1.jpg", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-status" }, [
+                        _vm._v(" Damaged")
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-save" }, [
+                        _c("i", { staticClass: "ti ti-heart" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "user-preview" }, [
+                        _c(
+                          "a",
+                          { staticClass: "col", attrs: { href: "agent.html" } },
+                          [
+                            _c("img", {
+                              staticClass: "avatar avatar-small",
+                              attrs: {
+                                alt: "Camilė",
+                                src: "img/4.png",
+                                title: "Camilė"
+                              }
+                            })
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "proeprty-sh-more",
+                          attrs: { href: "vehicul.html" }
+                        },
+                        [
+                          _c("i", { staticClass: "fa fa-angle-double-right" }),
+                          _c("i", { staticClass: "fa fa-angle-double-right" })
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("p", { staticClass: "car-info-smal" }, [
+                        _vm._v("\n                  Registration 2010"),
+                        _c("br"),
+                        _vm._v("\n                  3.0 Diesel"),
+                        _c("br"),
+                        _vm._v("\n                  230 HP"),
+                        _c("br"),
+                        _vm._v("\n                  Body Coupe"),
+                        _c("br"),
+                        _vm._v(
+                          "\n                  80 000 Miles\n                "
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h3", [
+                      _c(
+                        "a",
+                        {
+                          attrs: {
+                            href: "vehicul.html",
+                            title: "Mercedes-Benz"
+                          }
+                        },
+                        [_vm._v("Mercedes-Benz")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "price" }, [_vm._v("$340000")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "vehiculs-box" }, [
+                    _c("div", { staticClass: "vehiculs-thumb" }, [
+                      _c("img", {
+                        attrs: { src: "img/demo/vehicul2.jpg", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-status" }, [
+                        _vm._v(" Semi-New ")
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-save" }, [
+                        _c("i", { staticClass: "ti ti-heart" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "user-preview" }, [
+                        _c(
+                          "a",
+                          { staticClass: "col", attrs: { href: "agent.html" } },
+                          [
+                            _c("img", {
+                              staticClass: "avatar avatar-small",
+                              attrs: {
+                                alt: "Camilė",
+                                src: "img/3.png",
+                                title: "Camilė"
+                              }
+                            })
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "proeprty-sh-more",
+                          attrs: { href: "vehicul.html" }
+                        },
+                        [
+                          _c("i", { staticClass: "fa fa-angle-double-right" }),
+                          _c("i", { staticClass: "fa fa-angle-double-right" })
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("p", { staticClass: "car-info-smal" }, [
+                        _vm._v("\n                  Registration 2010"),
+                        _c("br"),
+                        _vm._v("\n                  3.0 Diesel"),
+                        _c("br"),
+                        _vm._v("\n                  230 HP"),
+                        _c("br"),
+                        _vm._v("\n                  Body Coupe"),
+                        _c("br"),
+                        _vm._v(
+                          "\n                  80 000 Miles\n                "
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h3", [
+                      _c(
+                        "a",
+                        { attrs: { href: "#", title: "New York Villa" } },
+                        [_vm._v("Mercedes-Benz")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "price" }, [_vm._v("$3400000")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "vehiculs-box" }, [
+                    _c("div", { staticClass: "vehiculs-thumb" }, [
+                      _c("img", {
+                        attrs: { src: "img/demo/vehicul3.jpg", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-status" }, [
+                        _vm._v(" Semi-New")
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-save" }, [
+                        _c("i", { staticClass: "ti ti-heart" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "user-preview" }, [
+                        _c(
+                          "a",
+                          { staticClass: "col", attrs: { href: "agent.html" } },
+                          [
+                            _c("img", {
+                              staticClass: "avatar avatar-small",
+                              attrs: {
+                                alt: "Camilė",
+                                src: "img/1.png",
+                                title: "Camilė"
+                              }
+                            })
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "proeprty-sh-more",
+                          attrs: { href: "vehicul.html" }
+                        },
+                        [
+                          _c("i", { staticClass: "fa fa-angle-double-right" }),
+                          _c("i", { staticClass: "fa fa-angle-double-right" })
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("p", { staticClass: "car-info-smal" }, [
+                        _vm._v("\n                  Registration 2010"),
+                        _c("br"),
+                        _vm._v("\n                  3.0 Diesel"),
+                        _c("br"),
+                        _vm._v("\n                  230 HP"),
+                        _c("br"),
+                        _vm._v("\n                  Body Coupe"),
+                        _c("br"),
+                        _vm._v(
+                          "\n                  80 000 Miles\n                "
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h3", [
+                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
+                        _vm._v("Mercedes-Benz")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "price" }, [_vm._v("$300000")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "vehiculs-box" }, [
+                    _c("div", { staticClass: "vehiculs-thumb" }, [
+                      _c("img", {
+                        attrs: { src: "img/demo/vehicul4.jpg", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-status" }, [
+                        _vm._v(" Damaged ")
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-save" }, [
+                        _c("i", { staticClass: "ti ti-heart" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "user-preview" }, [
+                        _c(
+                          "a",
+                          { staticClass: "col", attrs: { href: "agent.html" } },
+                          [
+                            _c("img", {
+                              staticClass: "avatar avatar-small",
+                              attrs: {
+                                alt: "Camilė",
+                                src: "img/2.png",
+                                title: "Camilė"
+                              }
+                            })
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "proeprty-sh-more",
+                          attrs: { href: "vehicul.html" }
+                        },
+                        [
+                          _c("i", { staticClass: "fa fa-angle-double-right" }),
+                          _c("i", { staticClass: "fa fa-angle-double-right" })
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("p", { staticClass: "car-info-smal" }, [
+                        _vm._v("\n                  Registration 2010"),
+                        _c("br"),
+                        _vm._v("\n                  3.0 Diesel"),
+                        _c("br"),
+                        _vm._v("\n                  230 HP"),
+                        _c("br"),
+                        _vm._v("\n                  Body Coupe"),
+                        _c("br"),
+                        _vm._v(
+                          "\n                  80 000 Miles\n                "
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h3", [
+                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
+                        _vm._v("Mercedes-Benz")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "price" }, [_vm._v("$34.00")])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "vehiculs-box" }, [
+                    _c("div", { staticClass: "vehiculs-thumb" }, [
+                      _c("img", {
+                        attrs: { src: "img/demo/vehicul5.jpg", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-status" }, [
+                        _vm._v(" For Rent ")
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "spn-save" }, [
+                        _c("i", { staticClass: "ti ti-heart" })
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "user-preview" }, [
+                        _c(
+                          "a",
+                          { staticClass: "col", attrs: { href: "agent.html" } },
+                          [
+                            _c("img", {
+                              staticClass: "avatar avatar-small",
+                              attrs: {
+                                alt: "Camilė",
+                                src: "img/4.png",
+                                title: "Camilė"
+                              }
+                            })
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "proeprty-sh-more",
+                          attrs: { href: "vehicul.html" }
+                        },
+                        [
+                          _c("i", { staticClass: "fa fa-angle-double-right" }),
+                          _c("i", { staticClass: "fa fa-angle-double-right" })
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("p", { staticClass: "car-info-smal" }, [
+                        _vm._v("\n                  Registration 2010"),
+                        _c("br"),
+                        _vm._v("\n                  3.0 Diesel"),
+                        _c("br"),
+                        _vm._v("\n                  230 HP"),
+                        _c("br"),
+                        _vm._v("\n                  Body Coupe"),
+                        _c("br"),
+                        _vm._v(
+                          "\n                  80 000 Miles\n                "
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("h3", [
+                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
+                        _vm._v("Mercedes-Benz")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("span", { staticClass: "price" }, [_vm._v("$9000000")])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "block" }, [
+        _c("div", {
+          staticClass: "parallax scrolly-invisible  blackish",
+          staticStyle: {
+            background:
+              "url(img/call-to-action-bg.jpg) repeat scroll 50% 422.28px transparent",
+            "background-attachment": "fixed"
+          }
+        }),
+        _vm._v(" "),
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-12" }, [
+              _c("div", { staticClass: "vehiculs-text-bar" }, [
+                _c("h3", [
+                  _vm._v("Sell or Rent  "),
+                  _c("span", [_vm._v(" vehiculs ")]),
+                  _vm._v("Quickly ! ")
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare porttitor diam"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    " a accumsan justo laoreet suscipit. Maecenas at bibendum nunc"
+                  )
+                ]),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "flat-btn", attrs: { href: "#", title: "" } },
+                  [_vm._v("Joing us")]
+                )
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "block" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "heading4" }, [
+            _c("h2", [_vm._v("FEATURED VEHICULS")]),
+            _vm._v(" "),
+            _c("span", [_vm._v("Lorem ipsum dolor consectetu")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-12" }, [
+              _c("div", { staticClass: "vehiculs-sec" }, [
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col-md-4" }, [
+                    _c("div", { staticClass: "vehiculs-box" }, [
+                      _c("div", { staticClass: "vehiculs-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul4.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-status" }, [
+                          _vm._v(" Semi-New ")
+                        ]),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-save" }, [
+                          _c("i", { staticClass: "ti ti-heart" })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "user-preview" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "col",
+                              attrs: { href: "agent.html" }
+                            },
+                            [
+                              _c("img", {
+                                staticClass: "avatar avatar-small",
+                                attrs: {
+                                  alt: "Camilė",
+                                  src: "img/4.png",
+                                  title: "Camilė"
+                                }
+                              })
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "proeprty-sh-more",
+                            attrs: { href: "vehicul.html" }
+                          },
+                          [
+                            _c("i", {
+                              staticClass: "fa fa-angle-double-right"
+                            }),
+                            _c("i", { staticClass: "fa fa-angle-double-right" })
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "car-info-smal" }, [
+                          _vm._v("\n                    Registration 2010"),
+                          _c("br"),
+                          _vm._v("\n                    3.0 Diesel"),
+                          _c("br"),
+                          _vm._v("\n                    230 HP"),
+                          _c("br"),
+                          _vm._v("\n                    Body Coupe"),
+                          _c("br"),
+                          _vm._v(
+                            "\n                    80 000 Miles\n                  "
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [
+                        _c(
+                          "a",
+                          { attrs: { href: "vehicul.html", title: "" } },
+                          [_vm._v("Mercedes-Benz")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "price" }, [_vm._v("$444000")]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "rate-it" }, [
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star  star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        })
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-4" }, [
+                    _c("div", { staticClass: "vehiculs-box" }, [
+                      _c("div", { staticClass: "vehiculs-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul3.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-status" }, [
+                          _vm._v(" Damaged ")
+                        ]),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-save" }, [
+                          _c("i", { staticClass: "ti ti-heart" })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "user-preview" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "col",
+                              attrs: { href: "agent.html" }
+                            },
+                            [
+                              _c("img", {
+                                staticClass: "avatar avatar-small",
+                                attrs: {
+                                  alt: "Camilė",
+                                  src: "img/1.png",
+                                  title: "Camilė"
+                                }
+                              })
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "proeprty-sh-more",
+                            attrs: { href: "vehicul.html" }
+                          },
+                          [
+                            _c("i", {
+                              staticClass: "fa fa-angle-double-right"
+                            }),
+                            _c("i", { staticClass: "fa fa-angle-double-right" })
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "car-info-smal" }, [
+                          _vm._v("\n                    Registration 2010"),
+                          _c("br"),
+                          _vm._v("\n                    3.0 Diesel"),
+                          _c("br"),
+                          _vm._v("\n                    230 HP"),
+                          _c("br"),
+                          _vm._v("\n                    Body Coupe"),
+                          _c("br"),
+                          _vm._v(
+                            "\n                    80 000 Miles\n                  "
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "vehicul.html",
+                              title: "Mercedes-Benz"
+                            }
+                          },
+                          [_vm._v("Mercedes-Benz")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "price" }, [_vm._v("$789000")]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "rate-it" }, [
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star  star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        })
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-4" }, [
+                    _c("div", { staticClass: "vehiculs-box" }, [
+                      _c("div", { staticClass: "vehiculs-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul2.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-status" }, [
+                          _vm._v(" Semi-New ")
+                        ]),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-save" }, [
+                          _c("i", { staticClass: "ti ti-heart" })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "user-preview" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "col",
+                              attrs: { href: "agent.html" }
+                            },
+                            [
+                              _c("img", {
+                                staticClass: "avatar avatar-small",
+                                attrs: {
+                                  alt: "Camilė",
+                                  src: "img/2.png",
+                                  title: "Camilė"
+                                }
+                              })
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "proeprty-sh-more",
+                            attrs: { href: "vehicul.html" }
+                          },
+                          [
+                            _c("i", {
+                              staticClass: "fa fa-angle-double-right"
+                            }),
+                            _c("i", { staticClass: "fa fa-angle-double-right" })
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "car-info-smal" }, [
+                          _vm._v("\n                    Registration 2010"),
+                          _c("br"),
+                          _vm._v("\n                    3.0 Diesel"),
+                          _c("br"),
+                          _vm._v("\n                    230 HP"),
+                          _c("br"),
+                          _vm._v("\n                    Body Coupe"),
+                          _c("br"),
+                          _vm._v(
+                            "\n                    80 000 Miles\n                  "
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "vehicul.html",
+                              title: "Mercedes-Benz"
+                            }
+                          },
+                          [_vm._v("Mercedes-Benz")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "price" }, [_vm._v("$380000")]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "rate-it" }, [
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star  star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        })
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-4" }, [
+                    _c("div", { staticClass: "vehiculs-box" }, [
+                      _c("div", { staticClass: "vehiculs-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul4.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-status" }, [
+                          _vm._v(" Damaged ")
+                        ]),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-save" }, [
+                          _c("i", { staticClass: "ti ti-heart" })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "user-preview" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "col",
+                              attrs: { href: "agent.html" }
+                            },
+                            [
+                              _c("img", {
+                                staticClass: "avatar avatar-small",
+                                attrs: {
+                                  alt: "Camilė",
+                                  src: "img/4.png",
+                                  title: "Camilė"
+                                }
+                              })
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "proeprty-sh-more",
+                            attrs: { href: "vehicul.html" }
+                          },
+                          [
+                            _c("i", {
+                              staticClass: "fa fa-angle-double-right"
+                            }),
+                            _c("i", { staticClass: "fa fa-angle-double-right" })
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "car-info-smal" }, [
+                          _vm._v("\n                    Registration 2010"),
+                          _c("br"),
+                          _vm._v("\n                    3.0 Diesel"),
+                          _c("br"),
+                          _vm._v("\n                    230 HP"),
+                          _c("br"),
+                          _vm._v("\n                    Body Coupe"),
+                          _c("br"),
+                          _vm._v(
+                            "\n                    80 000 Miles\n                  "
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "vehicul.html",
+                              title: "Mercedes-Benz"
+                            }
+                          },
+                          [_vm._v("Mercedes-Benz")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "price" }, [
+                        _vm._v("$1000000")
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "rate-it" }, [
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star  star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        })
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-4" }, [
+                    _c("div", { staticClass: "vehiculs-box" }, [
+                      _c("div", { staticClass: "vehiculs-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul5.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-status" }, [
+                          _vm._v(" Used ")
+                        ]),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-save" }, [
+                          _c("i", { staticClass: "ti ti-heart" })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "user-preview" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "col",
+                              attrs: { href: "agent.html" }
+                            },
+                            [
+                              _c("img", {
+                                staticClass: "avatar avatar-small",
+                                attrs: {
+                                  alt: "Camilė",
+                                  src: "img/3.png",
+                                  title: "Camilė"
+                                }
+                              })
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "proeprty-sh-more",
+                            attrs: { href: "vehicul.html" }
+                          },
+                          [
+                            _c("i", {
+                              staticClass: "fa fa-angle-double-right"
+                            }),
+                            _c("i", { staticClass: "fa fa-angle-double-right" })
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "car-info-smal" }, [
+                          _vm._v("\n                    Registration 2010"),
+                          _c("br"),
+                          _vm._v("\n                    3.0 Diesel"),
+                          _c("br"),
+                          _vm._v("\n                    230 HP"),
+                          _c("br"),
+                          _vm._v("\n                    Body Coupe"),
+                          _c("br"),
+                          _vm._v(
+                            "\n                    80 000 Miles\n                  "
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "vehicul.html",
+                              title: "Mercedes-Benz"
+                            }
+                          },
+                          [_vm._v("Mercedes-Benz")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "price" }, [_vm._v("$500000")]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "rate-it" }, [
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star  star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        })
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-md-4" }, [
+                    _c("div", { staticClass: "vehiculs-box" }, [
+                      _c("div", { staticClass: "vehiculs-thumb" }, [
+                        _c("img", {
+                          attrs: { src: "img/demo/vehicul3.jpg", alt: "" }
+                        }),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-status" }, [
+                          _vm._v(" Damaged")
+                        ]),
+                        _vm._v(" "),
+                        _c("span", { staticClass: "spn-save" }, [
+                          _c("i", { staticClass: "ti ti-heart" })
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "user-preview" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "col",
+                              attrs: { href: "agent.html" }
+                            },
+                            [
+                              _c("img", {
+                                staticClass: "avatar avatar-small",
+                                attrs: {
+                                  alt: "Camilė",
+                                  src: "img/2.png",
+                                  title: "Camilė"
+                                }
+                              })
+                            ]
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "proeprty-sh-more",
+                            attrs: { href: "vehicul.html" }
+                          },
+                          [
+                            _c("i", {
+                              staticClass: "fa fa-angle-double-right"
+                            }),
+                            _c("i", { staticClass: "fa fa-angle-double-right" })
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "car-info-smal" }, [
+                          _vm._v("\n                    Registration 2010"),
+                          _c("br"),
+                          _vm._v("\n                    3.0 Diesel"),
+                          _c("br"),
+                          _vm._v("\n                    230 HP"),
+                          _c("br"),
+                          _vm._v("\n                    Body Coupe"),
+                          _c("br"),
+                          _vm._v(
+                            "\n                    80 000 Miles\n                  "
+                          )
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "vehicul.html",
+                              title: "Mercedes-Benz"
+                            }
+                          },
+                          [_vm._v("Mercedes-Benz")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "price" }, [_vm._v("$340000")]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "rate-it" }, [
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star  star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star star-on-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        }),
+                        _vm._v(" \n                  "),
+                        _c("i", {
+                          staticClass: "ti ti-star off star-off-png",
+                          attrs: { title: "nice" }
+                        })
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "block" }, [
+        _c("div", {
+          staticClass: "parallax scrolly-invisible  blackish",
+          staticStyle: {
+            background:
+              'transparent url("img/call-to-action-big.jpg") repeat scroll 50% 0px',
+            "background-attachment": "fixed"
+          }
+        }),
+        _vm._v(" "),
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-12" }, [
+              _c("div", { staticClass: "heading4" }, [
+                _c("h2", [_vm._v("OUR AGENTS")]),
+                _vm._v(" "),
+                _c("span", [_vm._v("Lorem ipsum dolor")])
+              ]),
               _vm._v(" "),
-              _c("td", [_vm._v("Otto")])
+              _c("div", { staticClass: "agents-carousal-sec" }, [
+                _c("ul", { staticClass: "carousel" }, [
+                  _c("li", [
+                    _c("div", { staticClass: "agent-content" }, [
+                      _c("a", { attrs: { href: "agent.html" } }, [
+                        _c("img", {
+                          attrs: { src: "img/agents/agent1.jpg", alt: "" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [_vm._v("SUPER AGENT")]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
+                        _c("br"),
+                        _vm._v(" sed do eiusmod tempor incidid")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "agent-social-wrap" }, [
+                        _c("div", { staticClass: "social-list agent-social" }, [
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Facebook",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-facebook" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Twitter",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-twitter" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Google +",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-google-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Linkedin",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-linkedin" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Pinterest",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-pinterest" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("div", { staticClass: "agent-content" }, [
+                      _c("a", { attrs: { href: "agent.html" } }, [
+                        _c("img", {
+                          attrs: { src: "img/agents/agent3.jpg", alt: "" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [_vm._v("SUPER AGENT")]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
+                        _c("br"),
+                        _vm._v(" sed do eiusmod tempor incidid")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "agent-social-wrap" }, [
+                        _c("div", { staticClass: "social-list agent-social" }, [
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Facebook",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-facebook" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Twitter",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-twitter" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Google +",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-google-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Linkedin",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-linkedin" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Pinterest",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-pinterest" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("div", { staticClass: "agent-content" }, [
+                      _c("a", { attrs: { href: "agent.html" } }, [
+                        _c("img", {
+                          attrs: { src: "img/agents/agent5.jpg", alt: "" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [_vm._v("SUPER AGENT")]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
+                        _c("br"),
+                        _vm._v(" sed do eiusmod tempor incidid")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "agent-social-wrap" }, [
+                        _c("div", { staticClass: "social-list agent-social" }, [
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Facebook",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-facebook" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Twitter",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-twitter" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Google +",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-google-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Linkedin",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-linkedin" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Pinterest",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-pinterest" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("div", { staticClass: "agent-content" }, [
+                      _c("a", { attrs: { href: "agent.html" } }, [
+                        _c("img", {
+                          attrs: { src: "img/agents/agent4.jpg", alt: "" }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("h3", [_vm._v("SUPER AGENT")]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
+                        _c("br"),
+                        _vm._v(" sed do eiusmod tempor incidid")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "agent-social-wrap" }, [
+                        _c("div", { staticClass: "social-list agent-social" }, [
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Facebook",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-facebook" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Twitter",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-twitter" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Google +",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-google-plus" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Linkedin",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-linkedin" })]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: {
+                                href: "#",
+                                title: "Pinterest",
+                                target: "_blank"
+                              }
+                            },
+                            [_c("i", { staticClass: "fa fa-pinterest" })]
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "block" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-12" }, [
+              _c("div", { staticClass: "agents-carousal-sec" }, [
+                _c("div", { staticClass: "heading4" }, [
+                  _c("h2", [_vm._v("OUR PARTNERS ")]),
+                  _vm._v(" "),
+                  _c("span", [_vm._v("Lorem ipsum dolor")])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "our-clients-sec" }, [
+                  _c("ul", { staticClass: "carousel-client" }, [
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("img", {
+                          attrs: { src: "img/clients/our-client1.jpg", alt: "" }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("img", {
+                          attrs: { src: "img/clients/our-client2.jpg", alt: "" }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("img", {
+                          attrs: { src: "img/clients/our-client3.jpg", alt: "" }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("img", {
+                          attrs: { src: "img/clients/our-client4.jpg", alt: "" }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("img", {
+                          attrs: { src: "img/clients/our-client5.jpg", alt: "" }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("img", {
+                          attrs: { src: "img/clients/our-client1.jpg", alt: "" }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _c("a", { attrs: { href: "#", title: "" } }, [
+                        _c("img", {
+                          attrs: { src: "img/clients/our-client3.jpg", alt: "" }
+                        })
+                      ])
+                    ])
+                  ])
+                ])
+              ])
             ])
           ])
         ])
