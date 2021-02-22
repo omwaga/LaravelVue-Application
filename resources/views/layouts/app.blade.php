@@ -34,11 +34,11 @@
                         <div class="col-md-6">
                             <div class="account-user">
                                 <div class="logo">
-                                    <a href="#" title="">
-                                        <i class="fa fa-get-pocket"></i>
-                                        <span>KwitaraCars</span>
-                                        <strong>Rent Cars</strong>
-                                    </a>
+                                <router-link to="/">
+                                    <i class="fa fa-get-pocket"></i>
+                                    <span>KwitaraCars</span>
+                                    <strong>Rent Cars</strong>
+                                </router-link>
                                 </div><!-- LOGO -->
                                 <form>
                                     <h1>Login Form</h1>
@@ -108,11 +108,11 @@
             <div class="menu">
                 <div class="container">
                     <div class="logo">
-                        <a href="index.html" title="">
-                            <i class="fa fa-get-pocket"></i>
-                            <span>KwitaraCars</span>
-                            <strong>SELL VEHICULS</strong>
-                        </a>
+                                <router-link to="/">
+                                    <i class="fa fa-get-pocket"></i>
+                                    <span>KwitaraCars</span>
+                                    <strong>Rent Cars</strong>
+                                </router-link>
                     </div><!-- LOGO -->
                     <div class="popup-client">
                         <span><i class="fa fa-user"></i> /  Signup</span>
@@ -1007,8 +1007,8 @@
     <script type="text/javascript" src="{{asset('js/price-range.js')}}"></script><!-- Parallax -->
     <script type="text/javascript" src="{{asset('js/script.js')}}"></script><!-- Script -->
 
-    <!-- <script src="{{asset('js/rs-plugin/js/jquery.themepunch.tools.min.js')}}"></script>    -->
-    <!-- <script src="{{asset('js/rs-plugin/js/jquery.themepunch.revolution.min.js')}}"></script> -->
+    <script src="{{asset('js/rs-plugin/js/jquery.themepunch.tools.min.js')}}"></script>   
+    <script src="{{asset('js/rs-plugin/js/jquery.themepunch.revolution.min.js')}}"></script>
 
     <script type="text/javascript">
         $(document).ready(function () {

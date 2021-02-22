@@ -367,98 +367,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   mounted: function mounted() {
     console.log('Component mounted.');
@@ -812,436 +720,53 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   mounted: function mounted() {
     console.log('Component mounted.');
   }
 });
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/NotFound.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/NotFound.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
 
@@ -1278,16 +803,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _components_Home__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/Home */ "./resources/js/components/Home.vue");
 /* harmony import */ var _components_About__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/About */ "./resources/js/components/About.vue");
+/* harmony import */ var _components_NotFound__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/NotFound */ "./resources/js/components/NotFound.vue");
+
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   mode: 'history',
   routes: [{
+    path: '*',
+    component: _components_NotFound__WEBPACK_IMPORTED_MODULE_2__.default
+  }, {
     path: '/',
     component: _components_Home__WEBPACK_IMPORTED_MODULE_0__.default
   }, {
     path: '/about',
-    component: _components_About__WEBPACK_IMPORTED_MODULE_1__.default
+    component: _components_About__WEBPACK_IMPORTED_MODULE_1__.default,
+    name: 'about'
   }]
 });
 
@@ -1381,6 +912,44 @@ component.options.__file = "resources/js/components/Home.vue"
 
 /***/ }),
 
+/***/ "./resources/js/components/NotFound.vue":
+/*!**********************************************!*\
+  !*** ./resources/js/components/NotFound.vue ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony import */ var _NotFound_vue_vue_type_template_id_2ce50e5a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./NotFound.vue?vue&type=template&id=2ce50e5a& */ "./resources/js/components/NotFound.vue?vue&type=template&id=2ce50e5a&");
+/* harmony import */ var _NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./NotFound.vue?vue&type=script&lang=js& */ "./resources/js/components/NotFound.vue?vue&type=script&lang=js&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+;
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+  _NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _NotFound_vue_vue_type_template_id_2ce50e5a___WEBPACK_IMPORTED_MODULE_0__.render,
+  _NotFound_vue_vue_type_template_id_2ce50e5a___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/NotFound.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
 /***/ "./resources/js/components/About.vue?vue&type=script&lang=js&":
 /*!********************************************************************!*\
   !*** ./resources/js/components/About.vue?vue&type=script&lang=js& ***!
@@ -1408,6 +977,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Home.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/Home.vue?vue&type=script&lang=js&");
  /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
+/***/ "./resources/js/components/NotFound.vue?vue&type=script&lang=js&":
+/*!***********************************************************************!*\
+  !*** ./resources/js/components/NotFound.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => __WEBPACK_DEFAULT_EXPORT__
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./NotFound.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/NotFound.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
 
 /***/ }),
 
@@ -1443,6 +1027,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/NotFound.vue?vue&type=template&id=2ce50e5a&":
+/*!*****************************************************************************!*\
+  !*** ./resources/js/components/NotFound.vue?vue&type=template&id=2ce50e5a& ***!
+  \*****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => /* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_template_id_2ce50e5a___WEBPACK_IMPORTED_MODULE_0__.render,
+/* harmony export */   "staticRenderFns": () => /* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_template_id_2ce50e5a___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_template_id_2ce50e5a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./NotFound.vue?vue&type=template&id=2ce50e5a& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/NotFound.vue?vue&type=template&id=2ce50e5a&");
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/About.vue?vue&type=template&id=fb05e49c&":
 /*!*****************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/About.vue?vue&type=template&id=fb05e49c& ***!
@@ -1466,283 +1066,6 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "theme-layout" }, [
-      _c("header", { staticClass: "simple-header for-sticky " }, [
-        _c("div", { staticClass: "top-bar" }, [
-          _c("div", { staticClass: "container" }, [
-            _c("ul", { staticClass: "contact-item" }, [
-              _c("li", [
-                _c("i", { staticClass: "fa fa-envelope-o" }),
-                _vm._v("yourcompnay@email.com")
-              ]),
-              _vm._v(" "),
-              _c("li", [
-                _c("i", { staticClass: "fa fa-mobile" }),
-                _vm._v("+1 333 44 555 / +1 333 44 500")
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "choose-language" }, [
-              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("FR")]),
-              _vm._v(" "),
-              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("DE")]),
-              _vm._v(" "),
-              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("EN")]),
-              _vm._v(" "),
-              _c("a", { attrs: { href: "#", title: "" } }, [_vm._v("jp")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "menu" }, [
-          _c("div", { staticClass: "container" }, [
-            _c("div", { staticClass: "logo" }, [
-              _c("a", { attrs: { href: "index.html", title: "" } }, [
-                _c("i", { staticClass: "fa fa-get-pocket" }),
-                _vm._v(" "),
-                _c("span", [_vm._v("KwitaraCars")]),
-                _vm._v(" "),
-                _c("strong", [_vm._v("SELL VEHICULS")])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "popup-client" }, [
-              _c("span", [
-                _c("i", { staticClass: "fa fa-user" }),
-                _vm._v(" /  Signup")
-              ])
-            ]),
-            _vm._v(" "),
-            _c("span", { staticClass: "menu-toggle" }, [
-              _c("i", { staticClass: "fa fa-bars" })
-            ]),
-            _vm._v(" "),
-            _c("nav", [
-              _c("h1", { staticClass: "nocontent outline" }, [
-                _vm._v("--- Main Navigation ---")
-              ]),
-              _vm._v(" "),
-              _c("ul", [
-                _c("li", { staticClass: "menu-item-has-children" }, [
-                  _c("a", { attrs: { href: "#", title: "" } }, [
-                    _vm._v("HOME")
-                  ]),
-                  _vm._v(" "),
-                  _c("ul", [
-                    _c("li", [
-                      _c("a", { attrs: { href: "index.html", title: "" } }, [
-                        _vm._v("Home v1")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index2.html", title: "" } }, [
-                        _vm._v("Home v2")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "index3.html", title: "" } }, [
-                        _vm._v("Home v3")
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", { staticClass: "menu-item-has-children" }, [
-                  _c("a", { attrs: { href: "#", title: "" } }, [
-                    _vm._v("VEHICULS")
-                  ]),
-                  _vm._v(" "),
-                  _c("ul", [
-                    _c("li", [
-                      _c(
-                        "a",
-                        { attrs: { href: "vehiculs3.html", title: "" } },
-                        [_vm._v("vehiculs- Super ")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "vehiculs.html", title: "" } }, [
-                        _vm._v("vehiculs- List")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        { attrs: { href: "vehiculs2.html", title: "" } },
-                        [_vm._v("vehiculs- Grid")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
-                        _vm._v("vehicul details")
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", [
-                  _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
-                    _vm._v("VEHICUL")
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", { staticClass: "menu-item-has-children mega" }, [
-                  _c("a", { attrs: { href: "#", title: "" } }, [
-                    _vm._v("PAGES")
-                  ]),
-                  _vm._v(" "),
-                  _c("ul", [
-                    _c("li", [
-                      _c(
-                        "a",
-                        { attrs: { href: "comingsoon.html", title: "" } },
-                        [_vm._v("Coming Soon")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        { attrs: { href: "agents-listing.html", title: "" } },
-                        [_vm._v("Agent Listing ")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        { attrs: { href: "terms-conditions.html", title: "" } },
-                        [_vm._v("Terms & conditions")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "agent.html", title: "" } }, [
-                        _vm._v("Agent page")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "agent2.html", title: "" } }, [
-                        _vm._v("Agent 2 page")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "agent3.html", title: "" } }, [
-                        _vm._v("Agent 3 page")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        { attrs: { href: "my-profile.html", title: "" } },
-                        [_vm._v("Profile page")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "submit.html", title: "" } }, [
-                        _vm._v("Submit page")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "login.html", title: "" } }, [
-                        _vm._v("Login page")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "contact.html", title: "" } }, [
-                        _vm._v("Contact Us")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "404.html", title: "" } }, [
-                        _vm._v("404 Error ")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "faq.html", title: "" } }, [
-                        _vm._v("FAQ page")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "faq.html", title: "" } }, [
-                        _vm._v("VEHICUL LEFT SIDE")
-                      ])
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", { staticClass: "menu-item-has-children" }, [
-                  _c("a", { attrs: { href: "#", title: "" } }, [
-                    _vm._v("BLOG PAGES")
-                  ]),
-                  _vm._v(" "),
-                  _c("ul", [
-                    _c("li", [
-                      _c("a", { attrs: { href: "blog.html", title: "" } }, [
-                        _vm._v("Blog Page")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        { attrs: { href: "blog-sidebar.html", title: "" } },
-                        [_vm._v("Blog left Sidebar")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "single.html", title: "" } }, [
-                        _vm._v("Single Post")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          attrs: { href: "single-left-sidebar.html", title: "" }
-                        },
-                        [_vm._v("Single Left sidebar")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          attrs: { href: "single-no-sidebar.html", title: "" }
-                        },
-                        [_vm._v("Single No Sidebar")]
-                      )
-                    ])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("li", [
-                  _c("a", { attrs: { href: "contact.html", title: "" } }, [
-                    _vm._v("CONTACT")
-                  ])
-                ])
-              ])
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
       _c("div", { staticClass: "inner-head overlap" }, [
         _c("div", {
           staticClass: "parallax scrolly-invisible no-parallax",
@@ -2641,551 +1964,37 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "row" }, [
             _c("div", { staticClass: "col-md-8" }, [
-              _c(
-                "div",
-                {
-                  staticClass: "rev_slider_wrapper fullwidthbanner-container",
-                  attrs: {
-                    id: "rev_slider-wrapper",
-                    "data-alias": "classicslider1"
-                  }
-                },
-                [
-                  _c("div", { staticClass: "tp-banner-container" }, [
-                    _c("div", { staticClass: "tp-banner" }, [
-                      _c("ul", [
-                        _c(
-                          "li",
-                          {
-                            attrs: {
-                              "data-transition": "fade",
-                              "data-slotamount": "7",
-                              "data-masterspeed": "2000",
-                              "data-saveperformance": "on",
-                              "data-title": "Ken Burns Slide"
-                            }
-                          },
-                          [
-                            _c("img", {
-                              attrs: {
-                                src: "img/slides/home2.jpg",
-                                alt: "2",
-                                "data-lazyload": "img/slides/home2.jpg",
-                                "data-bgposition": "right top",
-                                "data-kenburns": "off",
-                                "data-duration": "12000",
-                                "data-ease": "Power0.easeInOut",
-                                "data-bgfit": "115",
-                                "data-bgfitend": "100",
-                                "data-bgpositionend": "center bottom"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "130",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [
-                                _c("img", {
-                                  staticStyle: {
-                                    width: "110px",
-                                    height: "110px"
-                                  },
-                                  attrs: { alt: "", src: "img/4.png" }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  "font-size": "40px",
-                                  "letter-spacing": "6px",
-                                  "font-weight": "400"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "272",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [
-                                _vm._v(
-                                  "\n                  Mercedes-Benz\n                "
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lfb tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "font-size": "13px",
-                                  "text-transform": "uppercase",
-                                  "letter-spacing": "10px"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "800",
-                                  "data-speed": "600",
-                                  "data-y": "320",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [
-                                _c("i", { staticClass: "fa fa-map-marker" }),
-                                _vm._v(" Not caroliana 234 \n              ")
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  "font-size": "40px",
-                                  "letter-spacing": "6px",
-                                  "font-family": "Montserrat",
-                                  "font-weight": "400"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "365",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [_vm._v("\n              345000 $\n            ")]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "a",
-                              {
-                                staticClass:
-                                  "pull-left tp-caption lfb tp-resizeme rs-parallaxlevel-0",
-                                staticStyle: {
-                                  "z-index": "12",
-                                  "max-width": "auto",
-                                  "max-height": "auto",
-                                  "white-space": "nowrap",
-                                  padding: "15px 28px",
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  border: "none",
-                                  background: "#000",
-                                  "font-size": "12px",
-                                  "letter-spacing": "3px",
-                                  "font-family": "Montserrat",
-                                  "border-radius": "0px",
-                                  display: "table",
-                                  transition: ".4s"
-                                },
-                                attrs: {
-                                  href: "vehicul.html",
-                                  "data-x": "center",
-                                  "data-y": "420",
-                                  "data-customin":
-                                    "x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;\n            scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;",
-                                  "data-speed": "500",
-                                  "data-start": "1200",
-                                  "data-easing": "Power3.easeInOut",
-                                  "data-splitin": "none",
-                                  "data-splitout": "none",
-                                  "data-elementdelay": "0.1",
-                                  "data-endelementdelay": "0.1",
-                                  "data-linktoslide": "next"
-                                }
-                              },
-                              [_vm._v("More Details")]
-                            )
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c(
-                          "li",
-                          {
-                            attrs: {
-                              "data-transition": "fade",
-                              "data-slotamount": "7",
-                              "data-masterspeed": "2000",
-                              "data-saveperformance": "on",
-                              "data-title": "Ken Burns Slide"
-                            }
-                          },
-                          [
-                            _c("img", {
-                              attrs: {
-                                src: "img/slides/home1.jpg",
-                                alt: "2",
-                                "data-lazyload": "img/slides/home1.jpg",
-                                "data-bgposition": "right top",
-                                "data-kenburns": "off",
-                                "data-duration": "12000",
-                                "data-ease": "Power0.easeInOut",
-                                "data-bgfit": "115",
-                                "data-bgfitend": "100",
-                                "data-bgpositionend": "center bottom"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "130",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [
-                                _c("img", {
-                                  staticStyle: {
-                                    width: "110px",
-                                    height: "110px"
-                                  },
-                                  attrs: { alt: "", src: "img/3.png" }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  "font-size": "40px",
-                                  "letter-spacing": "6px",
-                                  "font-weight": "400"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "272",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [_vm._v("\n        Mercedes-Benz\n      ")]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lfb tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "font-size": "13px",
-                                  "text-transform": "uppercase",
-                                  "letter-spacing": "10px"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "800",
-                                  "data-speed": "600",
-                                  "data-y": "320",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [
-                                _c("i", { staticClass: "fa fa-map-marker" }),
-                                _vm._v(" Not caroliana 234 \n    ")
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  "font-size": "40px",
-                                  "letter-spacing": "6px",
-                                  "font-family": "Montserrat",
-                                  "font-weight": "400"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "365",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [_vm._v("\n    345000 $\n  ")]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "a",
-                              {
-                                staticClass:
-                                  "pull-left tp-caption lfb tp-resizeme rs-parallaxlevel-0",
-                                staticStyle: {
-                                  "z-index": "12",
-                                  "max-width": "auto",
-                                  "max-height": "auto",
-                                  "white-space": "nowrap",
-                                  padding: "15px 28px",
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  border: "none",
-                                  background: "#000",
-                                  "font-size": "12px",
-                                  "letter-spacing": "3px",
-                                  "font-family": "Montserrat",
-                                  "border-radius": "0px",
-                                  display: "table",
-                                  transition: ".4s"
-                                },
-                                attrs: {
-                                  href: "vehicul.html",
-                                  "data-x": "center",
-                                  "data-y": "420",
-                                  "data-customin":
-                                    "x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;\n  scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;",
-                                  "data-speed": "500",
-                                  "data-start": "1200",
-                                  "data-easing": "Power3.easeInOut",
-                                  "data-splitin": "none",
-                                  "data-splitout": "none",
-                                  "data-elementdelay": "0.1",
-                                  "data-endelementdelay": "0.1",
-                                  "data-linktoslide": "next"
-                                }
-                              },
-                              [_vm._v("More Details")]
-                            )
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c(
-                          "li",
-                          {
-                            attrs: {
-                              "data-transition": "fade",
-                              "data-slotamount": "7",
-                              "data-masterspeed": "2000",
-                              "data-saveperformance": "on",
-                              "data-title": "Ken Burns Slide"
-                            }
-                          },
-                          [
-                            _c("img", {
-                              attrs: {
-                                src: "img/slides/home3.jpg",
-                                alt: "2",
-                                "data-lazyload": "img/slides/home3.jpg",
-                                "data-bgposition": "right top",
-                                "data-kenburns": "off",
-                                "data-duration": "12000",
-                                "data-ease": "Power0.easeInOut",
-                                "data-bgfit": "115",
-                                "data-bgfitend": "100",
-                                "data-bgpositionend": "center bottom"
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "130",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [
-                                _c("img", {
-                                  staticStyle: {
-                                    width: "110px",
-                                    height: "110px"
-                                  },
-                                  attrs: { alt: "", src: "img/3.png" }
-                                })
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  "font-size": "40px",
-                                  "letter-spacing": "6px",
-                                  "font-weight": "400"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "272",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [_vm._v("\nMercedes-Benz\n")]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lfb tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "font-size": "13px",
-                                  "text-transform": "uppercase",
-                                  "letter-spacing": "10px"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "800",
-                                  "data-speed": "600",
-                                  "data-y": "320",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [
-                                _c("i", { staticClass: "fa fa-map-marker" }),
-                                _vm._v(" Not caroliana 234 \n")
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              {
-                                staticClass:
-                                  "tp-caption tentered_white_huge lft tp-resizeme",
-                                staticStyle: {
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  "font-size": "40px",
-                                  "letter-spacing": "6px",
-                                  "font-family": "Montserrat",
-                                  "font-weight": "400"
-                                },
-                                attrs: {
-                                  "data-endspeed": "300",
-                                  "data-easing": "Power4.easeOut",
-                                  "data-start": "400",
-                                  "data-speed": "600",
-                                  "data-y": "365",
-                                  "data-hoffset": "0",
-                                  "data-x": "center"
-                                }
-                              },
-                              [_vm._v("\n345000 $\n")]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "a",
-                              {
-                                staticClass:
-                                  "pull-left tp-caption lfb tp-resizeme rs-parallaxlevel-0",
-                                staticStyle: {
-                                  "z-index": "12",
-                                  "max-width": "auto",
-                                  "max-height": "auto",
-                                  "white-space": "nowrap",
-                                  padding: "15px 28px",
-                                  color: "#fff",
-                                  "text-transform": "uppercase",
-                                  border: "none",
-                                  background: "#000",
-                                  "font-size": "12px",
-                                  "letter-spacing": "3px",
-                                  "font-family": "Montserrat",
-                                  "border-radius": "0px",
-                                  display: "table",
-                                  transition: ".4s"
-                                },
-                                attrs: {
-                                  href: "vehicul.html",
-                                  "data-x": "center",
-                                  "data-y": "420",
-                                  "data-customin":
-                                    "x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;\nscaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;",
-                                  "data-speed": "500",
-                                  "data-start": "1200",
-                                  "data-easing": "Power3.easeInOut",
-                                  "data-splitin": "none",
-                                  "data-splitout": "none",
-                                  "data-elementdelay": "0.1",
-                                  "data-endelementdelay": "0.1",
-                                  "data-linktoslide": "next"
-                                }
-                              },
-                              [_vm._v("More Details")]
-                            )
-                          ]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "tp-bannertimer" })
-                    ])
-                  ])
-                ]
-              )
+              _c("div", {
+                staticClass: "parallax scrolly-invisible ",
+                staticStyle: {
+                  background:
+                    "url(img/slides/home3.jpg) repeat scroll 50% 422.28px transparent"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "vehiculs-text-bar pt-4" }, [
+                _c("h3", [
+                  _vm._v("Sell or Rent  "),
+                  _c("span", [_vm._v(" vehiculs ")]),
+                  _vm._v("Quickly ! ")
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare porttitor diam"
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    " a accumsan justo laoreet suscipit. Maecenas at bibendum nunc"
+                  )
+                ]),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "flat-btn", attrs: { href: "#", title: "" } },
+                  [_vm._v("Joing us")]
+                )
+              ])
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "col-md-4" }, [
@@ -3402,368 +2211,6 @@ var staticRenderFns = [
         ])
       ]),
       _vm._v(" "),
-      _c("section", { staticClass: "block remove-top" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-12" }, [
-              _c("div", { staticClass: "heading4" }, [
-                _c("h2", [_vm._v("RECENT VEHICULS ")]),
-                _vm._v(" "),
-                _c("span", [_vm._v("Lorem ipsum dolor")])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "vehiculs-sec" }, [
-                _c("div", { staticClass: "carousel-prop" }, [
-                  _c("div", { staticClass: "vehiculs-box" }, [
-                    _c("div", { staticClass: "vehiculs-thumb" }, [
-                      _c("img", {
-                        attrs: { src: "img/demo/vehicul1.jpg", alt: "" }
-                      }),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-status" }, [
-                        _vm._v(" Damaged")
-                      ]),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-save" }, [
-                        _c("i", { staticClass: "ti ti-heart" })
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "user-preview" }, [
-                        _c(
-                          "a",
-                          { staticClass: "col", attrs: { href: "agent.html" } },
-                          [
-                            _c("img", {
-                              staticClass: "avatar avatar-small",
-                              attrs: {
-                                alt: "Camilė",
-                                src: "img/4.png",
-                                title: "Camilė"
-                              }
-                            })
-                          ]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c(
-                        "a",
-                        {
-                          staticClass: "proeprty-sh-more",
-                          attrs: { href: "vehicul.html" }
-                        },
-                        [
-                          _c("i", { staticClass: "fa fa-angle-double-right" }),
-                          _c("i", { staticClass: "fa fa-angle-double-right" })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("p", { staticClass: "car-info-smal" }, [
-                        _vm._v("\n                  Registration 2010"),
-                        _c("br"),
-                        _vm._v("\n                  3.0 Diesel"),
-                        _c("br"),
-                        _vm._v("\n                  230 HP"),
-                        _c("br"),
-                        _vm._v("\n                  Body Coupe"),
-                        _c("br"),
-                        _vm._v(
-                          "\n                  80 000 Miles\n                "
-                        )
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c(
-                        "a",
-                        {
-                          attrs: {
-                            href: "vehicul.html",
-                            title: "Mercedes-Benz"
-                          }
-                        },
-                        [_vm._v("Mercedes-Benz")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "price" }, [_vm._v("$340000")])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "vehiculs-box" }, [
-                    _c("div", { staticClass: "vehiculs-thumb" }, [
-                      _c("img", {
-                        attrs: { src: "img/demo/vehicul2.jpg", alt: "" }
-                      }),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-status" }, [
-                        _vm._v(" Semi-New ")
-                      ]),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-save" }, [
-                        _c("i", { staticClass: "ti ti-heart" })
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "user-preview" }, [
-                        _c(
-                          "a",
-                          { staticClass: "col", attrs: { href: "agent.html" } },
-                          [
-                            _c("img", {
-                              staticClass: "avatar avatar-small",
-                              attrs: {
-                                alt: "Camilė",
-                                src: "img/3.png",
-                                title: "Camilė"
-                              }
-                            })
-                          ]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c(
-                        "a",
-                        {
-                          staticClass: "proeprty-sh-more",
-                          attrs: { href: "vehicul.html" }
-                        },
-                        [
-                          _c("i", { staticClass: "fa fa-angle-double-right" }),
-                          _c("i", { staticClass: "fa fa-angle-double-right" })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("p", { staticClass: "car-info-smal" }, [
-                        _vm._v("\n                  Registration 2010"),
-                        _c("br"),
-                        _vm._v("\n                  3.0 Diesel"),
-                        _c("br"),
-                        _vm._v("\n                  230 HP"),
-                        _c("br"),
-                        _vm._v("\n                  Body Coupe"),
-                        _c("br"),
-                        _vm._v(
-                          "\n                  80 000 Miles\n                "
-                        )
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c(
-                        "a",
-                        { attrs: { href: "#", title: "New York Villa" } },
-                        [_vm._v("Mercedes-Benz")]
-                      )
-                    ]),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "price" }, [_vm._v("$3400000")])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "vehiculs-box" }, [
-                    _c("div", { staticClass: "vehiculs-thumb" }, [
-                      _c("img", {
-                        attrs: { src: "img/demo/vehicul3.jpg", alt: "" }
-                      }),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-status" }, [
-                        _vm._v(" Semi-New")
-                      ]),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-save" }, [
-                        _c("i", { staticClass: "ti ti-heart" })
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "user-preview" }, [
-                        _c(
-                          "a",
-                          { staticClass: "col", attrs: { href: "agent.html" } },
-                          [
-                            _c("img", {
-                              staticClass: "avatar avatar-small",
-                              attrs: {
-                                alt: "Camilė",
-                                src: "img/1.png",
-                                title: "Camilė"
-                              }
-                            })
-                          ]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c(
-                        "a",
-                        {
-                          staticClass: "proeprty-sh-more",
-                          attrs: { href: "vehicul.html" }
-                        },
-                        [
-                          _c("i", { staticClass: "fa fa-angle-double-right" }),
-                          _c("i", { staticClass: "fa fa-angle-double-right" })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("p", { staticClass: "car-info-smal" }, [
-                        _vm._v("\n                  Registration 2010"),
-                        _c("br"),
-                        _vm._v("\n                  3.0 Diesel"),
-                        _c("br"),
-                        _vm._v("\n                  230 HP"),
-                        _c("br"),
-                        _vm._v("\n                  Body Coupe"),
-                        _c("br"),
-                        _vm._v(
-                          "\n                  80 000 Miles\n                "
-                        )
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
-                        _vm._v("Mercedes-Benz")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "price" }, [_vm._v("$300000")])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "vehiculs-box" }, [
-                    _c("div", { staticClass: "vehiculs-thumb" }, [
-                      _c("img", {
-                        attrs: { src: "img/demo/vehicul4.jpg", alt: "" }
-                      }),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-status" }, [
-                        _vm._v(" Damaged ")
-                      ]),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-save" }, [
-                        _c("i", { staticClass: "ti ti-heart" })
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "user-preview" }, [
-                        _c(
-                          "a",
-                          { staticClass: "col", attrs: { href: "agent.html" } },
-                          [
-                            _c("img", {
-                              staticClass: "avatar avatar-small",
-                              attrs: {
-                                alt: "Camilė",
-                                src: "img/2.png",
-                                title: "Camilė"
-                              }
-                            })
-                          ]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c(
-                        "a",
-                        {
-                          staticClass: "proeprty-sh-more",
-                          attrs: { href: "vehicul.html" }
-                        },
-                        [
-                          _c("i", { staticClass: "fa fa-angle-double-right" }),
-                          _c("i", { staticClass: "fa fa-angle-double-right" })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("p", { staticClass: "car-info-smal" }, [
-                        _vm._v("\n                  Registration 2010"),
-                        _c("br"),
-                        _vm._v("\n                  3.0 Diesel"),
-                        _c("br"),
-                        _vm._v("\n                  230 HP"),
-                        _c("br"),
-                        _vm._v("\n                  Body Coupe"),
-                        _c("br"),
-                        _vm._v(
-                          "\n                  80 000 Miles\n                "
-                        )
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
-                        _vm._v("Mercedes-Benz")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "price" }, [_vm._v("$34.00")])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "vehiculs-box" }, [
-                    _c("div", { staticClass: "vehiculs-thumb" }, [
-                      _c("img", {
-                        attrs: { src: "img/demo/vehicul5.jpg", alt: "" }
-                      }),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-status" }, [
-                        _vm._v(" For Rent ")
-                      ]),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "spn-save" }, [
-                        _c("i", { staticClass: "ti ti-heart" })
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "user-preview" }, [
-                        _c(
-                          "a",
-                          { staticClass: "col", attrs: { href: "agent.html" } },
-                          [
-                            _c("img", {
-                              staticClass: "avatar avatar-small",
-                              attrs: {
-                                alt: "Camilė",
-                                src: "img/4.png",
-                                title: "Camilė"
-                              }
-                            })
-                          ]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c(
-                        "a",
-                        {
-                          staticClass: "proeprty-sh-more",
-                          attrs: { href: "vehicul.html" }
-                        },
-                        [
-                          _c("i", { staticClass: "fa fa-angle-double-right" }),
-                          _c("i", { staticClass: "fa fa-angle-double-right" })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("p", { staticClass: "car-info-smal" }, [
-                        _vm._v("\n                  Registration 2010"),
-                        _c("br"),
-                        _vm._v("\n                  3.0 Diesel"),
-                        _c("br"),
-                        _vm._v("\n                  230 HP"),
-                        _c("br"),
-                        _vm._v("\n                  Body Coupe"),
-                        _c("br"),
-                        _vm._v(
-                          "\n                  80 000 Miles\n                "
-                        )
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("h3", [
-                      _c("a", { attrs: { href: "vehicul.html", title: "" } }, [
-                        _vm._v("Mercedes-Benz")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("span", { staticClass: "price" }, [_vm._v("$9000000")])
-                  ])
-                ])
-              ])
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
       _c("section", { staticClass: "block" }, [
         _c("div", {
           staticClass: "parallax scrolly-invisible  blackish",
@@ -3867,16 +2314,16 @@ var staticRenderFns = [
                         ),
                         _vm._v(" "),
                         _c("p", { staticClass: "car-info-smal" }, [
-                          _vm._v("\n                    Registration 2010"),
+                          _vm._v("\n                      Registration 2010"),
                           _c("br"),
-                          _vm._v("\n                    3.0 Diesel"),
+                          _vm._v("\n                      3.0 Diesel"),
                           _c("br"),
-                          _vm._v("\n                    230 HP"),
+                          _vm._v("\n                      230 HP"),
                           _c("br"),
-                          _vm._v("\n                    Body Coupe"),
+                          _vm._v("\n                      Body Coupe"),
                           _c("br"),
                           _vm._v(
-                            "\n                    80 000 Miles\n                  "
+                            "\n                      80 000 Miles\n                    "
                           )
                         ])
                       ]),
@@ -3896,22 +2343,22 @@ var staticRenderFns = [
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star  star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
@@ -3970,16 +2417,16 @@ var staticRenderFns = [
                         ),
                         _vm._v(" "),
                         _c("p", { staticClass: "car-info-smal" }, [
-                          _vm._v("\n                    Registration 2010"),
+                          _vm._v("\n                      Registration 2010"),
                           _c("br"),
-                          _vm._v("\n                    3.0 Diesel"),
+                          _vm._v("\n                      3.0 Diesel"),
                           _c("br"),
-                          _vm._v("\n                    230 HP"),
+                          _vm._v("\n                      230 HP"),
                           _c("br"),
-                          _vm._v("\n                    Body Coupe"),
+                          _vm._v("\n                      Body Coupe"),
                           _c("br"),
                           _vm._v(
-                            "\n                    80 000 Miles\n                  "
+                            "\n                      80 000 Miles\n                    "
                           )
                         ])
                       ]),
@@ -4004,22 +2451,22 @@ var staticRenderFns = [
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star  star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
@@ -4078,16 +2525,16 @@ var staticRenderFns = [
                         ),
                         _vm._v(" "),
                         _c("p", { staticClass: "car-info-smal" }, [
-                          _vm._v("\n                    Registration 2010"),
+                          _vm._v("\n                      Registration 2010"),
                           _c("br"),
-                          _vm._v("\n                    3.0 Diesel"),
+                          _vm._v("\n                      3.0 Diesel"),
                           _c("br"),
-                          _vm._v("\n                    230 HP"),
+                          _vm._v("\n                      230 HP"),
                           _c("br"),
-                          _vm._v("\n                    Body Coupe"),
+                          _vm._v("\n                      Body Coupe"),
                           _c("br"),
                           _vm._v(
-                            "\n                    80 000 Miles\n                  "
+                            "\n                      80 000 Miles\n                    "
                           )
                         ])
                       ]),
@@ -4112,22 +2559,22 @@ var staticRenderFns = [
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star  star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
@@ -4186,16 +2633,16 @@ var staticRenderFns = [
                         ),
                         _vm._v(" "),
                         _c("p", { staticClass: "car-info-smal" }, [
-                          _vm._v("\n                    Registration 2010"),
+                          _vm._v("\n                      Registration 2010"),
                           _c("br"),
-                          _vm._v("\n                    3.0 Diesel"),
+                          _vm._v("\n                      3.0 Diesel"),
                           _c("br"),
-                          _vm._v("\n                    230 HP"),
+                          _vm._v("\n                      230 HP"),
                           _c("br"),
-                          _vm._v("\n                    Body Coupe"),
+                          _vm._v("\n                      Body Coupe"),
                           _c("br"),
                           _vm._v(
-                            "\n                    80 000 Miles\n                  "
+                            "\n                      80 000 Miles\n                    "
                           )
                         ])
                       ]),
@@ -4222,22 +2669,22 @@ var staticRenderFns = [
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star  star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
@@ -4296,16 +2743,16 @@ var staticRenderFns = [
                         ),
                         _vm._v(" "),
                         _c("p", { staticClass: "car-info-smal" }, [
-                          _vm._v("\n                    Registration 2010"),
+                          _vm._v("\n                      Registration 2010"),
                           _c("br"),
-                          _vm._v("\n                    3.0 Diesel"),
+                          _vm._v("\n                      3.0 Diesel"),
                           _c("br"),
-                          _vm._v("\n                    230 HP"),
+                          _vm._v("\n                      230 HP"),
                           _c("br"),
-                          _vm._v("\n                    Body Coupe"),
+                          _vm._v("\n                      Body Coupe"),
                           _c("br"),
                           _vm._v(
-                            "\n                    80 000 Miles\n                  "
+                            "\n                      80 000 Miles\n                    "
                           )
                         ])
                       ]),
@@ -4330,22 +2777,22 @@ var staticRenderFns = [
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star  star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
@@ -4404,16 +2851,16 @@ var staticRenderFns = [
                         ),
                         _vm._v(" "),
                         _c("p", { staticClass: "car-info-smal" }, [
-                          _vm._v("\n                    Registration 2010"),
+                          _vm._v("\n                      Registration 2010"),
                           _c("br"),
-                          _vm._v("\n                    3.0 Diesel"),
+                          _vm._v("\n                      3.0 Diesel"),
                           _c("br"),
-                          _vm._v("\n                    230 HP"),
+                          _vm._v("\n                      230 HP"),
                           _c("br"),
-                          _vm._v("\n                    Body Coupe"),
+                          _vm._v("\n                      Body Coupe"),
                           _c("br"),
                           _vm._v(
-                            "\n                    80 000 Miles\n                  "
+                            "\n                      80 000 Miles\n                    "
                           )
                         ])
                       ]),
@@ -4438,22 +2885,22 @@ var staticRenderFns = [
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star  star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star star-on-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
                         }),
-                        _vm._v(" \n                  "),
+                        _vm._v(" \n                    "),
                         _c("i", {
                           staticClass: "ti ti-star off star-off-png",
                           attrs: { title: "nice" }
@@ -4466,429 +2913,86 @@ var staticRenderFns = [
             ])
           ])
         ])
-      ]),
-      _vm._v(" "),
-      _c("section", { staticClass: "block" }, [
-        _c("div", {
-          staticClass: "parallax scrolly-invisible  blackish",
-          staticStyle: {
-            background:
-              'transparent url("img/call-to-action-big.jpg") repeat scroll 50% 0px',
-            "background-attachment": "fixed"
-          }
-        }),
-        _vm._v(" "),
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-12" }, [
-              _c("div", { staticClass: "heading4" }, [
-                _c("h2", [_vm._v("OUR AGENTS")]),
-                _vm._v(" "),
-                _c("span", [_vm._v("Lorem ipsum dolor")])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "agents-carousal-sec" }, [
-                _c("ul", { staticClass: "carousel" }, [
-                  _c("li", [
-                    _c("div", { staticClass: "agent-content" }, [
-                      _c("a", { attrs: { href: "agent.html" } }, [
-                        _c("img", {
-                          attrs: { src: "img/agents/agent1.jpg", alt: "" }
-                        })
-                      ]),
-                      _vm._v(" "),
-                      _c("h3", [_vm._v("SUPER AGENT")]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
-                        _c("br"),
-                        _vm._v(" sed do eiusmod tempor incidid")
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "agent-social-wrap" }, [
-                        _c("div", { staticClass: "social-list agent-social" }, [
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Facebook",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-facebook" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Twitter",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-twitter" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Google +",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-google-plus" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Linkedin",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-linkedin" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Pinterest",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-pinterest" })]
-                          )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/NotFound.vue?vue&type=template&id=2ce50e5a&":
+/*!********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/NotFound.vue?vue&type=template&id=2ce50e5a& ***!
+  \********************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => /* binding */ render,
+/* harmony export */   "staticRenderFns": () => /* binding */ staticRenderFns
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "block" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("div", { staticClass: "error-sec" }, [
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-md-12" }, [
+                  _c("div", { staticClass: "error-not-found style2" }, [
+                    _c("span", [
+                      _vm._v(
+                        "Sorry the Page you are looking fot does not exist here"
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("h3", [
+                      _vm._v("404"),
+                      _c("strong", [_vm._v("ERROR !")])
+                    ]),
+                    _vm._v(" "),
+                    _c("h4", [
+                      _vm._v("You can Explore Our Website Back "),
+                      _c("br"),
+                      _vm._v("to the Navigation Below")
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", [
+                      _c("li", [
+                        _c("a", { attrs: { href: "#", title: "" } }, [
+                          _vm._v("HOME")
                         ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("div", { staticClass: "agent-content" }, [
-                      _c("a", { attrs: { href: "agent.html" } }, [
-                        _c("img", {
-                          attrs: { src: "img/agents/agent3.jpg", alt: "" }
-                        })
                       ]),
                       _vm._v(" "),
-                      _c("h3", [_vm._v("SUPER AGENT")]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
-                        _c("br"),
-                        _vm._v(" sed do eiusmod tempor incidid")
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "agent-social-wrap" }, [
-                        _c("div", { staticClass: "social-list agent-social" }, [
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Facebook",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-facebook" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Twitter",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-twitter" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Google +",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-google-plus" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Linkedin",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-linkedin" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Pinterest",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-pinterest" })]
-                          )
+                      _c("li", [
+                        _c("a", { attrs: { href: "#", title: "" } }, [
+                          _vm._v("vehiculs")
                         ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("div", { staticClass: "agent-content" }, [
-                      _c("a", { attrs: { href: "agent.html" } }, [
-                        _c("img", {
-                          attrs: { src: "img/agents/agent5.jpg", alt: "" }
-                        })
                       ]),
                       _vm._v(" "),
-                      _c("h3", [_vm._v("SUPER AGENT")]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
-                        _c("br"),
-                        _vm._v(" sed do eiusmod tempor incidid")
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "agent-social-wrap" }, [
-                        _c("div", { staticClass: "social-list agent-social" }, [
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Facebook",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-facebook" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Twitter",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-twitter" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Google +",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-google-plus" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Linkedin",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-linkedin" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Pinterest",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-pinterest" })]
-                          )
+                      _c("li", [
+                        _c("a", { attrs: { href: "#", title: "" } }, [
+                          _vm._v("ABOUT")
                         ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("div", { staticClass: "agent-content" }, [
-                      _c("a", { attrs: { href: "agent.html" } }, [
-                        _c("img", {
-                          attrs: { src: "img/agents/agent4.jpg", alt: "" }
-                        })
                       ]),
                       _vm._v(" "),
-                      _c("h3", [_vm._v("SUPER AGENT")]),
-                      _vm._v(" "),
-                      _c("p", [
-                        _vm._v("Lorem ipsum dolor sit amet, consectetur "),
-                        _c("br"),
-                        _vm._v(" sed do eiusmod tempor incidid")
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "agent-social-wrap" }, [
-                        _c("div", { staticClass: "social-list agent-social" }, [
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Facebook",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-facebook" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Twitter",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-twitter" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Google +",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-google-plus" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Linkedin",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-linkedin" })]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "a",
-                            {
-                              attrs: {
-                                href: "#",
-                                title: "Pinterest",
-                                target: "_blank"
-                              }
-                            },
-                            [_c("i", { staticClass: "fa fa-pinterest" })]
-                          )
+                      _c("li", [
+                        _c("a", { attrs: { href: "#", title: "" } }, [
+                          _vm._v("CONTACT")
                         ])
-                      ])
-                    ])
-                  ])
-                ])
-              ])
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("section", { staticClass: "block" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-12" }, [
-              _c("div", { staticClass: "agents-carousal-sec" }, [
-                _c("div", { staticClass: "heading4" }, [
-                  _c("h2", [_vm._v("OUR PARTNERS ")]),
-                  _vm._v(" "),
-                  _c("span", [_vm._v("Lorem ipsum dolor")])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "our-clients-sec" }, [
-                  _c("ul", { staticClass: "carousel-client" }, [
-                    _c("li", [
-                      _c("a", { attrs: { href: "#", title: "" } }, [
-                        _c("img", {
-                          attrs: { src: "img/clients/our-client1.jpg", alt: "" }
-                        })
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "#", title: "" } }, [
-                        _c("img", {
-                          attrs: { src: "img/clients/our-client2.jpg", alt: "" }
-                        })
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "#", title: "" } }, [
-                        _c("img", {
-                          attrs: { src: "img/clients/our-client3.jpg", alt: "" }
-                        })
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "#", title: "" } }, [
-                        _c("img", {
-                          attrs: { src: "img/clients/our-client4.jpg", alt: "" }
-                        })
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "#", title: "" } }, [
-                        _c("img", {
-                          attrs: { src: "img/clients/our-client5.jpg", alt: "" }
-                        })
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "#", title: "" } }, [
-                        _c("img", {
-                          attrs: { src: "img/clients/our-client1.jpg", alt: "" }
-                        })
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c("a", { attrs: { href: "#", title: "" } }, [
-                        _c("img", {
-                          attrs: { src: "img/clients/our-client3.jpg", alt: "" }
-                        })
                       ])
                     ])
                   ])

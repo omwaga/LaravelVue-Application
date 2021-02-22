@@ -23,7 +23,7 @@
 <body>
   <!-- /.preloader -->
   <div id="preloader"></div>
-  <div class="theme-layout">
+  <div class="theme-layout" id="app">
         
         <div class="account-popup-sec"> 
            
@@ -33,11 +33,12 @@
                         <div class="col-md-6">
                             <div class="account-user">
                                 <div class="logo">
-                                    <a href="#" title="">
-                                        <i class="fa fa-get-pocket"></i>
-                                        <span>KwitaraCars</span>
-                                        <strong>SELL VEHICULS</strong>
-                                    </a>
+                                   
+                                <router-link to="/">
+                                    <i class="fa fa-get-pocket"></i>
+                                    <span>KwitaraCars</span>
+                                    <strong>Rent Cars</strong>
+                                </router-link>
                                 </div><!-- LOGO -->
                                 <form>
                                     <h1>Login Form</h1>
@@ -106,12 +107,12 @@
             </div><!-- Top bar -->
             <div class="menu">
                 <div class="container">
-                    <div class="logo">
-                        <a href="index.html" title="">
-                            <i class="fa fa-get-pocket"></i>
-                            <span>KwitaraCars</span>
-                            <strong>SELL VEHICULS</strong>
-                        </a>
+                    <div class="logo">        
+                                   <router-link to="/">
+                                       <i class="fa fa-get-pocket"></i>
+                                       <span>KwitaraCars</span>
+                                       <strong>Rent Cars</strong>
+                                   </router-link>
                     </div><!-- LOGO -->
                     <div class="popup-client">
                         <span><i class="fa fa-user"></i> /  Signup</span>
@@ -120,59 +121,16 @@
                     <nav>
                         <h1 class="nocontent outline">--- Main Navigation ---</h1>
                         <ul>
+                            <li><router-link to="/">HOME</router-link></li>
                             <li class="menu-item-has-children">
-                                <a href="#" title="">HOME</a>
+                                <a href="#" title="">VEHICLES</a>
                                 <ul>
-                                    <li><a href="index.html" title="">Home v1</a></li>
-                                    <li><a href="index2.html" title="">Home v2</a></li>
-                                    <li><a href="index3.html" title="">Home v3</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item-has-children">
-                                <a href="#" title="">VEHICULS</a>
-                                <ul>
-                                    <li><a href="vehiculs3.html" title="">vehiculs- Super </a></li>       
-                                    <li><a href="vehiculs.html" title="">vehiculs- List</a></li>
-                                    <li><a href="vehiculs2.html" title="">vehiculs- Grid</a></li>                             
-                                    <li><a href="vehicul.html" title="">vehicul details</a></li>              
-                                </ul>
-                            </li>
-                            <li><a href="vehicul.html" title="">VEHICUL</a></li>
-
-                            <li class="menu-item-has-children mega">
-                                <a href="#" title="">PAGES</a>
-                                <ul>                                    
-                                    <li><a href="comingsoon.html" title="">Coming Soon</a></li> 
-                                    <li><a href="agents-listing.html" title="">Agent Listing </a></li> 
-                                    <li><a href="terms-conditions.html" title="">Terms & conditions</a></li> 
-
-                                    <li><a href="agent.html" title="">Agent page</a></li> 
-                                    <li><a href="agent2.html" title="">Agent 2 page</a></li> 
-                                    <li><a href="agent3.html" title="">Agent 3 page</a></li> 
-
-                                    <li><a href="my-profile.html" title="">Profile page</a></li>
-                                    <li><a href="submit.html" title="">Submit page</a></li>
-                                    <li><a href="login.html" title="">Login page</a></li>
-
-                                    <li><a href="contact.html" title="">Contact Us</a></li>
-                                    <li><a href="404.html" title="">404 Error </a></li> 
-                                    <li><a href="faq.html" title="">FAQ page</a></li>
-                                    <li><a href="faq.html" title="">VEHICUL LEFT SIDE</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="menu-item-has-children">
-                                <a href="#" title="">BLOG PAGES</a>
-                                <ul>
-                                    <li><a href="blog.html" title="">Blog Page</a></li>
-                                    <li><a href="blog-sidebar.html" title="">Blog left Sidebar</a></li>
-                                    <li><a href="single.html" title="">Single Post</a></li>
-                                    <li><a href="single-left-sidebar.html" title="">Single Left sidebar</a></li>
-                                    <li><a href="single-no-sidebar.html" title="">Single No Sidebar</a></li>
+                                    <li><a href="vehiculs3.html" title="">vehiculs- Super </a></li>                  
                                 </ul>
                             </li>
 
                             <li><a href="contact.html" title="">CONTACT</a></li>
+                            <li><router-link :to="{name: 'about'}">ABOUT US</router-link></li>
                         </ul>
                     </nav>
 
@@ -180,7 +138,6 @@
             </div>
         </header> 
 
-  <div id="app">
     <router-view></router-view>
   </div>
 

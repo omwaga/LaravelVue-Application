@@ -1,11 +1,16 @@
-
 import Home from './components/Home';
 import About from './components/About';
+import NotFound from './components/NotFound';
 
 export default {
     mode: 'history',
 
     routes: [
+
+        {
+            path: '*',
+            component: NotFound
+        },
 
         {
             path: '/',
@@ -14,7 +19,8 @@ export default {
 
         {
             path: '/about',
-            component: About
+            component: About,
+            name: 'about'
         },
     ]
 };
