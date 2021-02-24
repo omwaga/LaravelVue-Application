@@ -330,13 +330,16 @@
         </div>
       </div>
     </section>
+
   </div>
 </template>
 
 <script>
-export default {
-  mounted() {
-    console.log('Component mounted.')
+import LoginRegister from './LoginRegister';
+
+export default {  
+  components: {
+    'login': LoginRegister
   }
 }
 </script>

@@ -1,6 +1,7 @@
 import Home from './components/Home';
 import About from './components/About';
 import NotFound from './components/NotFound';
+import LoginRegister from './components/LoginRegister';
 
 export default {
     mode: 'history',
@@ -21,6 +22,12 @@ export default {
             path: '/about',
             component: About,
             name: 'about'
+        },
+
+        {
+            path: '/login',
+            component: LoginRegister,
+            name: 'login'
         },
     ]
 };
