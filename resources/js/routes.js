@@ -1,7 +1,11 @@
 import Home from './components/Home';
 import About from './components/About';
+import Contact from './components/Contact';
 import NotFound from './components/NotFound';
-import LoginRegister from './components/LoginRegister';
+import Login from './components/Auth/Login';
+import Register from './components/Auth/Register';
+import Vehicles from './components/Vehicles/Vehicles';
+import Companies from './components/Companies/Companies';
 
 export default {
     mode: 'history',
@@ -26,8 +30,32 @@ export default {
 
         {
             path: '/login',
-            component: LoginRegister,
+            component: Login,
             name: 'login'
+        },
+
+        {
+            path: '/register',
+            component: Register,
+            name: 'register'
+        },
+
+        {
+            path: '/vehicles',
+            component: Vehicles,
+            name: 'vehicles'
+        },
+
+        {
+            path: '/companies',
+            component: Companies,
+            name: 'companies'
+        },
+
+        {
+            path: '/contact-us',
+            component: Contact,
+            name: 'contact'
         },
     ]
 };

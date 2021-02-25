@@ -57,11 +57,12 @@
                             <li class="menu-item-has-children">
                                 <a href="#" title="">VEHICLES</a>
                                 <ul>
-                                    <li><a href="vehiculs3.html" title="">vehiculs- Super </a></li>                  
+                                    <li><router-link :to="{name: 'vehicles'}"> Cars </router-link></li>
+                                    <li><router-link :to="{name: 'companies'}"> Companies </router-link></li>                  
                                 </ul>
                             </li>
 
-                            <li><a href="contact.html" title="">CONTACT</a></li>
+                            <li><router-link :to="{name: 'contact'}">CONTACT US</router-link></li>
                             <li><router-link :to="{name: 'about'}">ABOUT US</router-link></li>
                             <li class="btn"><router-link :to="{name: 'login'}"><span><i class="fa fa-user"></i>Login /  Signup</span></router-link></li>
                         </ul>

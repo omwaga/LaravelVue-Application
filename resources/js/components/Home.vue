@@ -335,11 +335,11 @@
 </template>
 
 <script>
-import LoginRegister from './LoginRegister';
+import Login from './Auth/Login';
 
 export default {  
   components: {
-    'login': LoginRegister
+    'login': Login
   }
 }
 </script>
