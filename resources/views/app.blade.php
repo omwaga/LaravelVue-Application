@@ -46,7 +46,7 @@
                                    <router-link to="/">
                                        <i class="fa fa-get-pocket"></i>
                                        <span>KwitaraCars</span>
-                                       <strong>Rent Cars</strong>
+               p                        <strong>Rent Cars</strong>
                                    </router-link>
                     </div><!-- LOGO -->
                     <span class="menu-toggle"><i class="fa fa-bars"></i></span>
